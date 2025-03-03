@@ -4,7 +4,7 @@ import { Phone } from "lucide-react";
 export default function FloatingChat() {
   return (
     <motion.div 
-      className="absolute -left-24 top-0 bg-white p-6 rounded-xl shadow-lg w-[194px]"
+      className="absolute -left-24 top-32 bg-white p-6 rounded-xl shadow-lg w-[194px] z-10"
       initial={{ opacity: 0, x: 20 }}
       animate={{ opacity: 1, x: 0 }}
       transition={{ duration: 0.6, delay: 0.6 }}
@@ -16,7 +16,7 @@ export default function FloatingChat() {
           </div>
         </div>
       </div>
-      
+
       <div className="space-y-5">
         <p className="text-right text-sm text-[#2B2D3F]">
           Hey, I'd like a Large Onion Pizza & a Choco Lava Cake
