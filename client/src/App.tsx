@@ -7,6 +7,7 @@ import Hero from "@/components/landing/Hero";
 import Features from "@/components/landing/Features";
 import UseCases from "@/components/landing/UseCases";
 import MissedRevenue from "@/components/landing/MissedRevenue";
+import Footer from "@/components/landing/Footer";
 import About from "@/pages/About";
 import Contact from "@/pages/Contact";
 import NotFound from "@/pages/not-found";
@@ -14,7 +15,7 @@ import NotFound from "@/pages/not-found";
 export default function App() {
   return (
     <QueryClientProvider client={queryClient}>
-      <div className="min-h-screen bg-white">
+      <div className="min-h-screen bg-white flex flex-col">
         <Navbar />
         <Switch>
           <Route path="/">
@@ -29,6 +30,7 @@ export default function App() {
           <Route path="/contact" component={Contact} />
           <Route component={NotFound} />
         </Switch>
+        <Footer />
         <Toaster />
       </div>
     </QueryClientProvider>
