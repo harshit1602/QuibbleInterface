@@ -25,6 +25,22 @@ export default function About() {
               </p>
             </div>
 
+            {/* Mission & Vision Section */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
+              <div className="text-left">
+                <h3 className="text-xl font-semibold text-[#2B2D3F] mb-4">Our Mission</h3>
+                <p className="text-[#6B6F80]">
+                  To empower restaurants with intelligent automation that enhances customer experience while reducing operational complexity.
+                </p>
+              </div>
+              <div className="text-left">
+                <h3 className="text-xl font-semibold text-[#2B2D3F] mb-4">Our Vision</h3>
+                <p className="text-[#6B6F80]">
+                  To be the leading AI solution provider in the restaurant industry, driving innovation and efficiency in food service operations.
+                </p>
+              </div>
+            </div>
+
             {/* Founders Section */}
             <div className="mt-16">
               <h2 className="text-3xl font-bold text-center mb-12">Meet Our Founders</h2>
@@ -60,22 +76,6 @@ export default function About() {
                     IIT-BHU grad with 12+ years of software development experience. Expertise in AI/ML, cloud, and AWS. Previous roles include CTO at Chikitsa and Engineering Manager at Peak AI.
                   </p>
                 </div>
-              </div>
-            </div>
-
-            {/* Mission & Vision Section */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mt-16">
-              <div className="text-left">
-                <h3 className="text-xl font-semibold text-[#2B2D3F] mb-4">Our Mission</h3>
-                <p className="text-[#6B6F80]">
-                  To empower restaurants with intelligent automation that enhances customer experience while reducing operational complexity.
-                </p>
-              </div>
-              <div className="text-left">
-                <h3 className="text-xl font-semibold text-[#2B2D3F] mb-4">Our Vision</h3>
-                <p className="text-[#6B6F80]">
-                  To be the leading AI solution provider in the restaurant industry, driving innovation and efficiency in food service operations.
-                </p>
               </div>
             </div>
           </motion.div>
