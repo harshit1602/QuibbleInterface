@@ -4,9 +4,9 @@ import { Card, CardContent } from "@/components/ui/card";
 export default function UseCases() {
   const useCases = [
     {
-      title: "Restaurant Orders",
-      image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
-      description: "Increase order volume and improve order accuracy"
+      title: "AI Voice Ordering",
+      image: "https://images.unsplash.com/photo-1591405351990-4726e331f141",
+      description: "Advanced voice recognition for seamless food ordering experience"
     },
     {
       title: "Customer Support",
