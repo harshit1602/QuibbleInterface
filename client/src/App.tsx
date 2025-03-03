@@ -6,6 +6,7 @@ import Navbar from "@/components/landing/Navbar";
 import Hero from "@/components/landing/Hero";
 import Features from "@/components/landing/Features";
 import UseCases from "@/components/landing/UseCases";
+import MissedRevenue from "@/components/landing/MissedRevenue";
 import About from "@/pages/About";
 import Contact from "@/pages/Contact";
 import NotFound from "@/pages/not-found";
@@ -21,6 +22,7 @@ export default function App() {
               <Hero />
               <UseCases />
               <Features />
+              <MissedRevenue />
             </main>
           </Route>
           <Route path="/about" component={About} />
