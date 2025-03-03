@@ -3,7 +3,6 @@ import { Link } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { Menu } from "lucide-react";
-import { motion } from "framer-motion";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -15,7 +14,7 @@ export default function Navbar() {
   ];
 
   return (
-    <nav className="flex justify-between items-center px-12 py-4 border-b border-gray-100">
+    <nav className="fixed top-0 left-0 right-0 flex justify-between items-center px-6 md:px-12 py-4 bg-white border-b border-gray-100 z-50">
       <Link href="/" className="flex items-center gap-2">
         <img src="/assets/logo.svg" alt="Quibble AI" className="w-[18px] h-[19px]" />
         <span className="font-semibold text-[16px] text-[#2B2D3F]">Quibble AI</span>
@@ -34,14 +33,12 @@ export default function Navbar() {
         ))}
       </div>
 
-      <div className="hidden md:block">
-        <Button 
-          variant="ghost" 
-          className="text-[#5A4CE6] hover:bg-[#5A4CE6]/10"
-        >
-          Request Demo
-        </Button>
-      </div>
+      <Button 
+        variant="ghost" 
+        className="hidden md:flex text-[#5A4CE6] hover:bg-[#5A4CE6]/10"
+      >
+        Request Demo
+      </Button>
 
       {/* Mobile Navigation */}
       <Sheet open={isOpen} onOpenChange={setIsOpen}>
@@ -53,15 +50,14 @@ export default function Navbar() {
         <SheetContent>
           <div className="flex flex-col gap-4 mt-8">
             {navLinks.map((link) => (
-              <motion.a
+              <a
                 key={link.text}
                 href={link.href}
                 className="text-lg font-medium text-[#2B2D3F]"
-                whileHover={{ x: 5 }}
                 onClick={() => setIsOpen(false)}
               >
                 {link.text}
-              </motion.a>
+              </a>
             ))}
             <Button className="mt-4 bg-gradient-to-r from-[#5A4CE6] to-[#322A80]">
               Request Demo
