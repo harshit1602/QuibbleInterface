@@ -24,7 +24,8 @@ export default function Pricing() {
         "Single Language Support",
         "Basic Analytics"
       ],
-      cta: "Start Free Trial"
+      cta: "Start Free Trial",
+      ctaUrl: "https://demo.quibbleai.io/"
     },
     {
       name: "Professional",
@@ -40,6 +41,7 @@ export default function Pricing() {
         "Custom Integration Options"
       ],
       cta: "Get Started",
+      ctaUrl: "https://demo.quibbleai.io/",
       popular: true
     },
     {
@@ -57,7 +59,8 @@ export default function Pricing() {
         "Custom Branding",
         "SLA Guarantee"
       ],
-      cta: "Contact Sales"
+      cta: "Contact Sales",
+      ctaUrl: "https://demo.quibbleai.io/"
     }
   ];
 
@@ -122,9 +125,10 @@ export default function Pricing() {
                     </ul>
                   </CardContent>
                   <CardFooter>
-                    <Button 
+                    <Button
                       className={`w-full ${plan.popular ? 'bg-[#5A4CE6] hover:bg-[#4038A7]' : ''}`}
                       variant={plan.popular ? "default" : "outline"}
+                      onClick={() => window.location.href = plan.ctaUrl}
                     >
                       {plan.cta}
                     </Button>

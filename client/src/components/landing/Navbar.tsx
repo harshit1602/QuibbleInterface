@@ -37,6 +37,7 @@ export default function Navbar() {
         <Button 
           variant="ghost" 
           className="hidden md:inline-flex text-[#5A4CE6] hover:bg-[#5A4CE6]/10"
+          onClick={() => window.location.href = 'https://demo.quibbleai.io/'}
         >
           Request Demo
         </Button>
@@ -60,7 +61,10 @@ export default function Navbar() {
                   {link.text}
                 </Link>
               ))}
-              <Button className="mt-4 bg-gradient-to-r from-[#5A4CE6] to-[#322A80]">
+              <Button 
+                className="mt-4 bg-gradient-to-r from-[#5A4CE6] to-[#322A80]"
+                onClick={() => window.location.href = 'https://demo.quibbleai.io/'}
+              >
                 Request Demo
               </Button>
             </div>
