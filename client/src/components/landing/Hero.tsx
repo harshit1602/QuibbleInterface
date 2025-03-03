@@ -39,8 +39,8 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.3 }}
         >
           <img 
-            src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e"
-            alt="Customer Service Representative"
+            src="/assets/joyful-woman.png"
+            alt="Woman using QuibbleAI on smartphone"
             className="w-full h-full object-cover rounded-[150px]"
           />
         </motion.div>
