@@ -1,15 +1,18 @@
 import { Link } from "wouter";
 import { BsDiscord, BsLinkedin, BsTwitterX, BsEnvelope } from "react-icons/bs";
+import { useTranslation } from "react-i18next";
 
 export default function Footer() {
+  const { t } = useTranslation();
+
   const footerLinks = {
     company: [
-      { label: "Home", href: "/" },
-      { label: "Pricing", href: "/pricing" },
-      { label: "About Us", href: "/about" },
+      { label: t('nav.home'), href: "/" },
+      { label: t('nav.pricing'), href: "/pricing" },
+      { label: t('nav.aboutUs'), href: "/about" },
     ],
     help: [
-      { label: "Customer Support", href: "/under-construction" },
+      { label: t('footer.help'), href: "/under-construction" },
       { label: "Terms & Conditions", href: "/under-construction" },
       { label: "Privacy Policy", href: "/under-construction" },
     ],
@@ -30,13 +33,13 @@ export default function Footer() {
               <span className="font-semibold text-[16px]">QuibbleAI</span>
             </Link>
             <p className="text-sm opacity-80">
-              Your words, our intelligence together, we achieve more
+              {t('footer.companyDesc')}
             </p>
           </div>
 
           {/* Company Links */}
           <div>
-            <h3 className="text-lg font-semibold mb-4">Company</h3>
+            <h3 className="text-lg font-semibold mb-4">{t('footer.company')}</h3>
             <ul className="space-y-3">
               {footerLinks.company.map((link) => (
                 <li key={link.label}>
@@ -50,7 +53,7 @@ export default function Footer() {
 
           {/* Help Links */}
           <div>
-            <h3 className="text-lg font-semibold mb-4">Help</h3>
+            <h3 className="text-lg font-semibold mb-4">{t('footer.help')}</h3>
             <ul className="space-y-3">
               {footerLinks.help.map((link) => (
                 <li key={link.label}>
@@ -64,7 +67,7 @@ export default function Footer() {
 
           {/* Contact */}
           <div>
-            <h3 className="text-lg font-semibold mb-4">Contact</h3>
+            <h3 className="text-lg font-semibold mb-4">{t('footer.contact')}</h3>
             <a href="mailto:Support@quibbleai.io" className="text-sm opacity-80 hover:opacity-100 flex items-center gap-2">
               <BsEnvelope />
               Support@quibbleai.io
@@ -81,7 +84,7 @@ export default function Footer() {
               className="h-8 w-auto" 
             />
             <span className="text-sm opacity-80">
-              © Copyright 2025. All Rights Reserved by QuibbleAI
+              {t('footer.copyright')}
             </span>
           </Link>
           <div className="flex gap-6">
