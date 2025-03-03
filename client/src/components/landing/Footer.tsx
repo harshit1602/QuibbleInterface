@@ -23,7 +23,7 @@ export default function Footer() {
           <div className="col-span-1">
             <Link href="/" className="flex items-center gap-2 mb-4">
               <img 
-                src="/quibblelogo.jpg" 
+                src="/images/quibblelogo.jpg" 
                 alt="QuibbleAI" 
                 className="h-8 w-auto" 
               />
@@ -76,7 +76,7 @@ export default function Footer() {
         <div className="mt-12 pt-8 border-t border-white/20 flex flex-col md:flex-row justify-between items-center gap-4">
           <Link href="/" className="flex items-center gap-2">
             <img 
-              src="/quibblelogo.jpg" 
+              src="/images/quibblelogo.jpg" 
               alt="QuibbleAI" 
               className="h-8 w-auto" 
             />
