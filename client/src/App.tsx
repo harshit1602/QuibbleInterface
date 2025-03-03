@@ -5,6 +5,7 @@ import Hero from "@/components/landing/Hero";
 import Features from "@/components/landing/Features";
 import UseCases from "@/components/landing/UseCases";
 import ContactForm from "@/components/landing/ContactForm";
+import Benefits from "@/components/landing/Benefits"; // New import
 import { Button } from "@/components/ui/button";
 
 export default function App() {
@@ -39,8 +40,9 @@ export default function App() {
           </div>
           <main className="w-full">
             <Hero />
-            <Features />
             <UseCases />
+            <Features />
+            <Benefits />
             <ContactForm />
           </main>
         </div>
