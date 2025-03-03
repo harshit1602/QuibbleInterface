@@ -14,9 +14,9 @@ export default function UseCases() {
       description: "24/7 instant support with personalized responses"
     },
     {
-      title: "Appointment Booking",
-      image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef",
-      description: "Streamline scheduling and reduce no-shows"
+      title: "Table Reservations",
+      image: "https://images.unsplash.com/photo-1578474846511-04ba529f0b88",
+      description: "Streamline bookings and manage table availability"
     }
   ];
 
@@ -38,7 +38,7 @@ export default function UseCases() {
         </h2>
       </div>
 
-      <div className="grid md:grid-cols-3 gap-8">
+      <div className="grid grid-cols-3 gap-6">
         {useCases.map((useCase, index) => (
           <motion.div
             key={useCase.title}
@@ -46,13 +46,16 @@ export default function UseCases() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ delay: index * 0.2 }}
+            className="h-full"
           >
-            <Card className="overflow-hidden">
-              <img 
-                src={useCase.image} 
-                alt={useCase.title}
-                className="w-full h-64 object-cover"
-              />
+            <Card className="overflow-hidden h-full">
+              <div className="w-full h-[397px]">
+                <img 
+                  src={useCase.image} 
+                  alt={useCase.title}
+                  className="w-full h-full object-cover"
+                />
+              </div>
               <CardContent className="p-6">
                 <h3 className="text-xl font-semibold text-[#2B2D3F] mb-2">
                   {useCase.title}
