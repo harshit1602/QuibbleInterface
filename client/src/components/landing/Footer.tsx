@@ -6,12 +6,12 @@ export default function Footer() {
     company: [
       { label: "Home", href: "/" },
       { label: "About", href: "/about" },
-      { label: "Pricing", href: "#pricing" },
+      { label: "Pricing", href: "/pricing" },
     ],
     help: [
-      { label: "Customer Support", href: "/support" },
-      { label: "Terms & Conditions", href: "/terms" },
-      { label: "Privacy Policy", href: "/privacy" },
+      { label: "Customer Support", href: "/under-construction" },
+      { label: "Terms & Conditions", href: "/under-construction" },
+      { label: "Privacy Policy", href: "/under-construction" },
     ],
   };
 
@@ -21,10 +21,14 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Logo and Description */}
           <div className="col-span-1">
-            <div className="flex items-center gap-2 mb-4">
-              <img src="/images/quibble-logo.jpg" alt="QuibbleAI" className="h-8 w-auto brightness-0 invert" />
+            <Link href="/" className="flex items-center gap-2 mb-4">
+              <img 
+                src="/images/quibble-logo.jpg" 
+                alt="QuibbleAI" 
+                className="h-8 w-auto brightness-0 invert" 
+              />
               <span className="font-semibold text-[16px]">QuibbleAI</span>
-            </div>
+            </Link>
             <p className="text-sm opacity-80">
               Your words, our intelligence together, we achieve more
             </p>

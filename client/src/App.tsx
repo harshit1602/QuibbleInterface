@@ -12,6 +12,7 @@ import About from "@/pages/About";
 import Contact from "@/pages/Contact";
 import Pricing from "@/pages/Pricing";
 import NotFound from "@/pages/not-found";
+import UnderConstruction from "@/pages/UnderConstruction";
 
 export default function App() {
   return (
@@ -34,6 +35,7 @@ export default function App() {
           <Route path="/about" component={About} />
           <Route path="/contact" component={Contact} />
           <Route path="/pricing" component={Pricing} />
+          <Route path="/under-construction" component={UnderConstruction} />
           <Route component={NotFound} />
         </Switch>
         <Footer />
