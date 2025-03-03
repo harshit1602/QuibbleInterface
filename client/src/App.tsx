@@ -8,13 +8,13 @@ import Home from "@/pages/Home";
 export default function App() {
   return (
     <QueryClientProvider client={queryClient}>
-      <main className="min-h-screen bg-background">
+      <div className="min-h-screen bg-background">
         <Switch>
           <Route path="/" component={Home} />
           <Route component={NotFound} />
         </Switch>
-      </main>
-      <Toaster />
+        <Toaster />
+      </div>
     </QueryClientProvider>
   );
 }
