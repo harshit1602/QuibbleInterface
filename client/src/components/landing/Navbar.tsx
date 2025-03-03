@@ -17,7 +17,7 @@ export default function Navbar() {
     <header className="fixed top-0 left-0 right-0 bg-white border-b border-gray-100 z-50">
       <nav className="container mx-auto flex justify-between items-center px-4 py-4">
         <Link href="/" className="flex items-center gap-2">
-          <img src="/assets/logo.svg" alt="QuibbleAI" className="w-[18px] h-[19px]" />
+          <img src="/assets/quibble-logo.png" alt="QuibbleAI" className="w-8 h-8" />
           <span className="font-semibold text-[16px] text-[#2B2D3F]">QuibbleAI</span>
         </Link>
 
