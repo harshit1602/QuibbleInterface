@@ -10,6 +10,7 @@ import MissedRevenue from "@/components/landing/MissedRevenue";
 import Footer from "@/components/landing/Footer";
 import About from "@/pages/About";
 import Contact from "@/pages/Contact";
+import Pricing from "@/pages/Pricing";
 import NotFound from "@/pages/not-found";
 
 export default function App() {
@@ -28,6 +29,7 @@ export default function App() {
           </Route>
           <Route path="/about" component={About} />
           <Route path="/contact" component={Contact} />
+          <Route path="/pricing" component={Pricing} />
           <Route component={NotFound} />
         </Switch>
         <Footer />

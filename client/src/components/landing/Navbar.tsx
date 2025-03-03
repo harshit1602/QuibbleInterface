@@ -10,7 +10,7 @@ export default function Navbar() {
   const navLinks = [
     { text: "About Us", href: "/about" },
     { text: "Contact", href: "/contact" },
-    { text: "Pricing", href: "#pricing" }
+    { text: "Pricing", href: "/pricing" }
   ];
 
   return (
