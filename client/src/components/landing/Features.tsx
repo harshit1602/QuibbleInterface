@@ -6,9 +6,15 @@ export default function Features() {
   const features = [
     {
       title: "Easy POS Integration",
-      description: "Connects effortlessly with your existing POS, and ordering systems for minimal disruption",
+      description: "Connects effortlessly with your existing POS, and ordering systems for  minimal disruption",
       icon: Zap,
-      integrations: ["Square", "Orders", "Urban Piper", "Toast", "Billing"]
+      integrations: [
+        { name: "Square", languages: ["Japanese", "German", "English", "French", "Spanish", "Italian"] },
+        { name: "Orders", languages: ["Italian", "French", "Spanish", "Japanese", "German", "English"] },
+        { name: "Urban Piper", languages: ["Japanese", "French", "English", "Spanish", "Italian", "German"] },
+        { name: "Toast", languages: ["Japanese", "German", "English", "French", "Spanish", "Italian"] },
+        { name: "Billing", languages: ["Japanese", "French", "English", "Spanish", "Italian", "German"] }
+      ]
     },
     {
       title: "Multilingual Support",
@@ -78,9 +84,18 @@ export default function Features() {
                 {feature.integrations && (
                   <div className="flex flex-wrap gap-2">
                     {feature.integrations.map((integration) => (
-                      <span key={integration} className="px-3 py-1 bg-[#5A4CE6]/10 rounded-full text-sm text-[#4038A7]">
-                        {integration}
-                      </span>
+                      <div key={integration.name} className="mb-4">
+                        <span className="block mb-2 px-3 py-1 bg-[#5A4CE6]/10 rounded-full text-sm text-[#4038A7]">
+                          {integration.name}
+                        </span>
+                        <div className="flex flex-wrap gap-2">
+                          {integration.languages.map((lang) => (
+                            <span key={lang} className="px-3 py-1 bg-[#5A4CE6]/5 rounded-full text-xs text-[#4038A7]">
+                              {lang}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
                     ))}
                   </div>
                 )}
