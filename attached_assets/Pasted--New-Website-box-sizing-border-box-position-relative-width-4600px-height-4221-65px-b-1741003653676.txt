@@ -1,0 +1,12555 @@
+/* New Website */
+
+box-sizing: border-box;
+
+position: relative;
+width: 4600px;
+height: 4221.65px;
+
+background: #444444;
+border: 1px solid rgba(255, 255, 255, 0.1);
+border-radius: 2px;
+
+
+/* Frame 1618873069 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+position: relative;
+width: 1440px;
+height: 4021.65px;
+left: 100px;
+top: 100px;
+
+background: #FFFFFF;
+
+
+/* Navbar New */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 48px;
+gap: 272.5px;
+
+width: 1440px;
+height: 84px;
+
+border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Nav */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+margin: 0 auto;
+width: 105px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 105px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 18px;
+height: 19px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* div.logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 79px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* p.logo-text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 79px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Quibble AI */
+
+width: 79px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* div.framer-11uvtgt */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+gap: 32px;
+
+margin: 0 auto;
+width: 300px;
+height: 31px;
+
+border-radius: 64px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link → Product */
+
+width: 77px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 124% */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link → Pricing */
+
+width: 57px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 124% */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link → Blog */
+
+display: none;
+width: 36px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 124% */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Link → Integrations */
+
+width: 94px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 124% */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 24px;
+
+margin: 0 auto;
+width: 159px;
+height: 52px;
+
+border-radius: 64px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Request Demo */
+
+width: 111px;
+height: 20px;
+
+/* prestige.framer.website/DM Sans/Medium 16 */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height, or 120% */
+display: flex;
+align-items: center;
+
+/* Primary */
+color: #5A4CE6;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Grid */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 48px 100px;
+gap: 283px;
+
+width: 1440px;
+height: 619.32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 17 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+
+margin: 0 auto;
+width: 683px;
+height: 349px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873070 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 683px;
+height: 224px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* H2 */
+
+width: 683px;
+height: 156px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Body */
+
+width: 683px;
+height: 52px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873113 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 267px;
+height: 77px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+gap: 12px;
+
+width: 267px;
+height: 53px;
+
+background: linear-gradient(90.76deg, #5A4CE6 -1.46%, #322A80 100%);
+border-radius: 34px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Try our Live Demo Now */
+
+width: 173px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+width: 18px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 18.75%;
+bottom: 18.75%;
+
+/* Primary BG */
+background: #FEFEFE;
+
+
+/* No phone, email or credit card required */
+
+width: 214px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873114 */
+
+margin: 0 auto;
+width: 497px;
+height: 523.32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Joyful Woman with Smartphone 1 */
+
+position: absolute;
+width: 389px;
+height: 500.32px;
+left: 108px;
+top: 23px;
+
+background: url(Joyful Woman with Smartphone.jpg);
+border-radius: 150px;
+
+
+/* Waveform */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+gap: 20px;
+
+position: absolute;
+width: 194px;
+height: 240px;
+right: 303px;
+top: 0px;
+
+background: #FFFFFF;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.16);
+border-radius: 12px;
+
+
+/* Frame 1433 */
+
+width: 76px;
+height: 76px;
+
+/* Sidebar Active */
+background: #E7F0FF;
+border-radius: 61px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1432 */
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: calc(50% - 60px/2);
+top: calc(50% - 60px/2);
+
+/* Primary
+
+Buttons, etc.
+*/
+background: #5A4CE6;
+border-radius: 61px;
+
+
+/* Phone */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: calc(50% - 32px/2);
+top: calc(50% - 32px/2);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 9.38%;
+top: 9.38%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+
+/* Frame 1618873072 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 146px;
+height: 120px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Hey, I’d like a Large Onion Pizza & a Choco Lava Cake */
+
+width: 146px;
+height: 32px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+text-align: right;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Got it! Want to add cold coffee for just ₹99? */
+
+width: 146px;
+height: 32px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+letter-spacing: -0.01em;
+
+/* Primary */
+color: #5A4CE6;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Sure, add one! */
+
+width: 146px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+text-align: right;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Grid */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 48px 100px;
+gap: 40px;
+
+width: 1440px;
+height: 794.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 1618873116 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 780px;
+height: 105px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873115 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 10px;
+
+width: 152px;
+height: 37px;
+
+background: rgba(90, 76, 230, 0.1);
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Our Use Cases */
+
+width: 120px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+text-transform: uppercase;
+
+/* Text Accents, Hover States */
+color: #4038A7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* H2 */
+
+width: 780px;
+height: 52px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873093 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 1240px;
+height: 553.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873136 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 397.33px;
+height: 553.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 1618873119 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 10px 16px;
+gap: 10px;
+
+width: 380px;
+height: 46px;
+
+/* Primary
+
+Buttons, etc.
+*/
+background: #5A4CE6;
+border-radius: 6px 6px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: -8px 0px;
+
+
+/* Increase order volume and improve order accuracy */
+
+width: 331px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873091 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 397.33px;
+height: 515.33px;
+
+background: #FFFFFF;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Dynamic Double Burger Close-up 1 */
+
+width: 397.33px;
+height: 397.33px;
+
+background: url(Dynamic Double Burger Close-up.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873092 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 0px;
+gap: 24px;
+
+width: 397.33px;
+height: 118px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873120 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 24px;
+gap: 8px;
+
+width: 397.33px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Automated Food Ordering */
+
+width: 247px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Let customers effortlessly place orders via voice, reducing wait times, minimizing errors */
+
+width: 349.33px;
+height: 36px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873137 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 397.33px;
+height: 553.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 1618873119 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 10px 16px;
+gap: 10px;
+
+width: 380px;
+height: 46px;
+
+/* Primary
+
+Buttons, etc.
+*/
+background: #5A4CE6;
+border-radius: 6px 6px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: -8px 0px;
+
+
+/* Reduce no-shows and improve seating efficiency. */
+
+width: 322px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873093 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 397.33px;
+height: 515.33px;
+
+background: #FFFFFF;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Elegant Dining Table for Two 1 */
+
+width: 527.43px;
+height: 397.33px;
+
+background: url(Elegant Dining Table for Two.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873120 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 0px;
+gap: 24px;
+
+width: 397.33px;
+height: 118px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873120 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 24px;
+gap: 8px;
+
+width: 397.33px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Intelligent Reservation Management */
+
+width: 340px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Manage reservations with ease, optimize table turnover, and reduce no-shows */
+
+width: 349.33px;
+height: 36px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873138 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 397.33px;
+height: 553.33px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Frame 1618873119 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 10px 16px;
+gap: 10px;
+
+width: 380px;
+height: 46px;
+
+/* Primary
+
+Buttons, etc.
+*/
+background: #5A4CE6;
+border-radius: 6px 6px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: -8px 0px;
+
+
+/* Increase customer satisfaction reducing support cost */
+
+width: 348px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873094 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 397.33px;
+height: 515.33px;
+
+background: #FFFFFF;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Obscured Identity 1 */
+
+width: 708.46px;
+height: 397.33px;
+
+background: url(Obscured Identity.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873120 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 0px;
+gap: 24px;
+
+width: 397.33px;
+height: 118px;
+
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873120 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 24px;
+gap: 8px;
+
+width: 397.33px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* 24/7 General Support */
+
+width: 204px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Provide instant answers to customer inquiries, resolve issues quickly, and enhance customer satisfaction */
+
+width: 349.33px;
+height: 36px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Grid */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 48px 100px;
+gap: 40px;
+
+width: 1440px;
+height: 1025px;
+
+background: #EFEEFD;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame 1618873117 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 851px;
+height: 105px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873115 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 10px;
+
+width: 108px;
+height: 37px;
+
+background: rgba(90, 76, 230, 0.1);
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Features */
+
+width: 76px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+text-transform: uppercase;
+
+/* Text Accents, Hover States */
+color: #4038A7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* H2 */
+
+width: 851px;
+height: 52px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873110 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 40px;
+
+width: 1240px;
+height: 374px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873099 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 0px;
+gap: 32px;
+
+width: 600px;
+height: 374px;
+
+background: #FFFFFF;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+box-shadow: 0px 0px 23px rgba(90, 76, 230, 0.25);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 1618873013 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 24px;
+gap: 8px;
+
+width: 600px;
+height: 85px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Easy POS Integration */
+
+width: 552px;
+height: 31px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 31px;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Connects effortlessly with your existing POS, and ordering systems for minimal disruption */
+
+width: 552px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873108 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 24px;
+gap: 119px;
+isolation: isolate;
+
+width: 600px;
+height: 209px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873106 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+margin: 0 auto;
+width: 159px;
+height: 209px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 1618873101 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 20px;
+gap: 8px;
+
+width: 125px;
+height: 48px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 41px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* square_icon.jpeg */
+
+width: 24px;
+height: 24px;
+
+background: url(.jpg);
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Square */
+
+width: 53px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873102 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 20px;
+gap: 8px;
+
+width: 159px;
+height: 48px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 41px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* urbanpiper_icon.jpeg */
+
+width: 24px;
+height: 24px;
+
+background: url(.jpg);
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Urban Piper */
+
+width: 87px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873103 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 20px;
+gap: 8px;
+
+width: 112px;
+height: 49px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 41px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* toast_icon.png */
+
+width: 24px;
+height: 25px;
+
+background: url(.png);
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Toast */
+
+width: 40px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873100 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+margin: 0 auto;
+width: 51px;
+height: 53px;
+
+background: #FFFFFF;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+box-shadow: 0px 0px 12px rgba(90, 76, 230, 0.25);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* image 7 */
+
+width: 27px;
+height: 29px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873107 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 48px;
+
+margin: 0 auto;
+width: 123px;
+height: 144px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Frame 1618873105 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 20px;
+gap: 8px;
+
+width: 123px;
+height: 48px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 41px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* ForkKnife */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.38%;
+right: 18.75%;
+top: 15.62%;
+bottom: 34.38%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 15.62%;
+top: 12.45%;
+bottom: 9.37%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+
+
+/* Orders */
+
+width: 52px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+/* Text Accents, Hover States */
+color: #4038A7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873104 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 20px;
+gap: 8px;
+
+width: 114px;
+height: 48px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 41px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Receipt */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 18.75%;
+bottom: 18.75%;
+
+/* Mute Gray,Input Labels, Placeholders */
+background: #6B6F80;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.38%;
+top: 15.62%;
+bottom: 15.63%;
+
+/* Mute Gray,Input Labels, Placeholders */
+background: #6B6F80;
+
+
+/* Billing */
+
+width: 42px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+width: 143.5px;
+height: 80.5px;
+left: 149px;
+top: 23.35px;
+
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Vector */
+
+position: absolute;
+width: 109.5px;
+height: 0.5px;
+left: 183px;
+top: 104.35px;
+
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* Vector */
+
+position: absolute;
+width: 156.5px;
+height: 80px;
+left: 136px;
+top: 105.35px;
+
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* Frame 1618873121 */
+
+position: absolute;
+width: 92px;
+height: 144px;
+left: 352px;
+top: 32.5px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+z-index: 6;
+
+
+/* Vector */
+
+position: absolute;
+width: 92px;
+height: 99px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(61.99deg, #5A4CE6 11.5%, #322A80 92.47%);
+
+
+/* Vector */
+
+position: absolute;
+width: 92px;
+height: 98px;
+left: 0px;
+top: 46px;
+
+background: linear-gradient(121.7deg, #5A4CE6 9.29%, #322A80 91.03%);
+
+
+/* Frame 1618873100 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 0px;
+gap: 32px;
+
+width: 600px;
+height: 370px;
+
+background: #FFFFFF;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+box-shadow: 0px 0px 23px rgba(90, 76, 230, 0.25);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 1618873014 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 24px;
+gap: 8px;
+
+width: 600px;
+height: 81px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Multilingual Support */
+
+width: 552px;
+height: 31px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 31px;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Break language barriers by interacting with customers in their preferred language */
+
+width: 552px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873011 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 600px;
+height: 209px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873008 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 600px;
+height: 39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618872995 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 121px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 15 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Japanese */
+
+width: 62px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872985 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 111px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 8 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* German */
+
+width: 52px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872991 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 105px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* image 11 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* English */
+
+width: 46px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872992 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 104px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* image 12 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* French */
+
+width: 45px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872993 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 110px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* image 13 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Spanish */
+
+width: 51px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872994 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 105px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* image 14 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Italian */
+
+width: 46px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873015 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 600px;
+height: 39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618872994 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 105px;
+height: 39px;
+
+background: rgba(255, 255, 255, 0.1);
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 14 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Italian */
+
+width: 46px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872992 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 104px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 12 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* French */
+
+width: 45px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872993 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 110px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* image 13 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Spanish */
+
+width: 51px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872995 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 121px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* image 15 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Japanese */
+
+width: 62px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872985 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 111px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* image 8 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* German */
+
+width: 52px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872991 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 105px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* image 11 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* English */
+
+width: 46px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873016 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 600px;
+height: 39px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618872995 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 121px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 15 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Japanese */
+
+width: 62px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872992 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 104px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 12 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* French */
+
+width: 45px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872991 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 105px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* image 11 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* English */
+
+width: 46px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872993 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 110px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* image 13 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Spanish */
+
+width: 51px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872994 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 98px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* image 14 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Italian */
+
+width: 39px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618872985 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 119px;
+height: 39px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* image 8 */
+
+width: 27px;
+height: 23px;
+
+background: url(image.png);
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* German */
+
+width: 60px;
+height: 19px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873111 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 40px;
+
+width: 1240px;
+height: 370px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873101 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 0px;
+gap: 32px;
+
+width: 600px;
+height: 370px;
+
+background: #FFFFFF;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+box-shadow: 0px 0px 23px rgba(90, 76, 230, 0.25);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 1618873109 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 24px;
+gap: 8px;
+
+width: 600px;
+height: 81px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* AI-Powered Natural Language Understanding */
+
+width: 552px;
+height: 31px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 31px;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Understands customer inquiries with remarkable accuracy, even with accents and variations in language */
+
+width: 552px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873029 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-end;
+padding: 0px 40px;
+gap: 24px;
+
+width: 600px;
+height: 209px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873027 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 520px;
+height: 74px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873026 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+width: 457px;
+height: 74px;
+
+background: #F6F6F6;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Can I get the... uh... the veggie burger? No wait, not the burger, the wrap. The veggie wrap. */
+
+width: 425px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-align: right;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 1618873040 */
+
+width: 51px;
+height: 51px;
+
+/* Text */
+background: #2B2D3F;
+border-radius: 33px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* karel-mistrik-_0LmQ_hVSV0-unsplash 1 */
+
+position: absolute;
+width: 53px;
+height: 82px;
+left: -2px;
+top: -25px;
+
+background: url(karel-mistrik-_0LmQ_hVSV0-unsplash.jpg);
+
+
+/* Frame 1618873029 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 520px;
+height: 74px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873040 */
+
+width: 51px;
+height: 51px;
+
+/* Primary BG */
+background: #FEFEFE;
+border-radius: 33px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 7 */
+
+position: absolute;
+width: 32px;
+height: 33px;
+left: 10px;
+top: 9.5px;
+
+background: url(image.png);
+
+
+/* Frame 1618873026 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 16px;
+gap: 10px;
+
+width: 457px;
+height: 74px;
+
+background: #F6F6F6;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Okay, switching to the Veggie Wrap. Just to confirm, you'd like the Veggie Wrap instead of the Veggie Burger, correct? */
+
+width: 425px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 1618873102 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 24px 0px;
+gap: 32px;
+
+width: 600px;
+height: 370px;
+
+background: #FFFFFF;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+box-shadow: 0px 0px 23px rgba(90, 76, 230, 0.25);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 1618873013 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 24px;
+gap: 8px;
+
+width: 600px;
+height: 81px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Sentiment Analysis */
+
+width: 552px;
+height: 31px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 31px;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Identifies customer sentiment to tailor interactions and ensure a positive and personalized experience */
+
+width: 552px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873029 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 40px;
+gap: 24px;
+
+width: 600px;
+height: 209px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Receipt */
+
+width: 296px;
+height: 56px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+border-radius: 41px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Star Struck */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 20px;
+top: 6px;
+
+
+
+/* Star Struck */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(star-struck_1f9292.png);
+
+
+/* Grinning Face With Big Eyes */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 76px;
+top: 12px;
+
+
+
+/* Grinning Face With Big Eyes */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(grinning-face-with-big-eyes_1f6032.png);
+
+
+/* Neutral Face */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 132px;
+top: 12px;
+
+
+
+/* Neutral Face */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(neutral-face_1f6102.png);
+
+
+/* Frowning Face */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 188px;
+top: 12px;
+
+
+
+/* Frowning Face */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(frowning-face_2639-fe0f2.png);
+
+
+/* Pouting Face */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 244px;
+top: 12px;
+
+
+
+/* Pouting Face */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(pouting-face_1f6212.png);
+
+
+/* MagnifyingGlass */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.29%;
+right: 9.37%;
+top: 9.29%;
+bottom: 9.37%;
+
+/* Mute Gray,Input Labels, Placeholders */
+background: #6B6F80;
+
+
+/* Brain */
+
+width: 64px;
+height: 64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.23%;
+right: 6.25%;
+top: 12.5%;
+bottom: 15.62%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.12%;
+right: 3.13%;
+top: 9.39%;
+bottom: 12.52%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+
+
+/* Grid */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 48px 100px;
+gap: 40px;
+
+width: 1440px;
+height: 723px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Frame 1618873118 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 967px;
+height: 105px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873115 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 10px;
+
+width: 103px;
+height: 37px;
+
+background: rgba(90, 76, 230, 0.1);
+border-radius: 30px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* benefits */
+
+width: 71px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+text-transform: uppercase;
+
+/* Text Accents, Hover States */
+color: #4038A7;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* H2 */
+
+width: 967px;
+height: 52px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+
+background: linear-gradient(90deg, #5A4CE6 0.72%, #322A80 47.52%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873112 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 1240px;
+height: 482px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 25 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 1240px;
+height: 233px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Feature Cards */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 40px 16px;
+gap: 24px;
+
+width: 402.67px;
+height: 233px;
+
+/* Input Filled */
+background: rgba(90, 76, 230, 0.1);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 56px;
+height: 56px;
+
+/* Primary BG */
+background: #FEFEFE;
+border-radius: 34px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* PhoneX */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 15.63%;
+top: 15.63%;
+bottom: 12.5%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 12.5%;
+top: 12.5%;
+bottom: 9.37%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 370.67px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Zero Missed Calls */
+
+width: 143px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+letter-spacing: -0.031em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Body */
+
+width: 370.67px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Feature Cards */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 40px 16px;
+gap: 24px;
+
+width: 402.67px;
+height: 233px;
+
+/* Input Filled */
+background: rgba(90, 76, 230, 0.1);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 56px;
+height: 56px;
+
+/* Primary BG */
+background: #FEFEFE;
+border-radius: 34px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* TrendDown */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.62%;
+right: 9.38%;
+top: 50%;
+bottom: 25%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 6.25%;
+right: 6.25%;
+top: 21.87%;
+bottom: 21.88%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 370.67px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Reduce Call Durations */
+
+width: 180px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+letter-spacing: -0.031em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Body */
+
+width: 370.67px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Feature Cards */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 40px 16px;
+gap: 24px;
+
+width: 402.67px;
+height: 233px;
+
+/* Input Filled */
+background: rgba(90, 76, 230, 0.1);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 56px;
+height: 56px;
+
+/* Primary BG */
+background: #FEFEFE;
+border-radius: 34px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Calculator */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.25%;
+right: 31.25%;
+top: 25%;
+bottom: 56.25%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 9.38%;
+bottom: 9.38%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 370.67px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Cost Effective */
+
+width: 115px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+letter-spacing: -0.031em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Body */
+
+width: 370.67px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873096 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 1240px;
+height: 233px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Feature Cards */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 40px 16px;
+gap: 24px;
+
+width: 402.67px;
+height: 233px;
+
+/* Input Filled */
+background: rgba(90, 76, 230, 0.1);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 56px;
+height: 56px;
+
+/* Primary BG */
+background: #FEFEFE;
+border-radius: 34px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Smiley */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.37%;
+top: 9.38%;
+bottom: 9.37%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 370.67px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Personalized Interactions */
+
+width: 207px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+letter-spacing: -0.031em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Body */
+
+width: 370.67px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Feature Cards */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 40px 16px;
+gap: 24px;
+
+width: 402.67px;
+height: 233px;
+
+/* Input Filled */
+background: rgba(90, 76, 230, 0.1);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 56px;
+height: 56px;
+
+/* Primary BG */
+background: #FEFEFE;
+border-radius: 34px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Translate */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 12.5%;
+top: 21.88%;
+bottom: 28.12%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 3.13%;
+top: 9.38%;
+bottom: 12.5%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 370.67px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Native Language Support */
+
+width: 207px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+letter-spacing: -0.031em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Body */
+
+width: 370.67px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Feature Cards */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 40px 16px;
+gap: 24px;
+
+width: 402.67px;
+height: 233px;
+
+/* Input Filled */
+background: rgba(90, 76, 230, 0.1);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 56px;
+height: 56px;
+
+/* Primary BG */
+background: #FEFEFE;
+border-radius: 34px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ChartBar */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.38%;
+right: 18.75%;
+top: 15.62%;
+bottom: 18.75%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.38%;
+top: 12.5%;
+bottom: 15.62%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+
+
+/* Frame 24 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 370.67px;
+height: 73px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Scalable */
+
+width: 70px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 23px;
+text-align: center;
+letter-spacing: -0.031em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Body */
+
+width: 370.67px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Grid */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 48px 100px;
+gap: 40px;
+
+width: 1440px;
+height: 279px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Frame 17 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 1240px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* H2 */
+
+width: 543px;
+height: 52px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Body */
+
+width: 1240px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+gap: 12px;
+
+width: 267px;
+height: 53px;
+
+background: linear-gradient(90.76deg, #5A4CE6 -1.46%, #322A80 100%);
+border-radius: 34px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Request a Free Demo */
+
+width: 161px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Laptop Footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 47px 0px 24px;
+gap: 28px;
+
+width: 1440px;
+height: 305px;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Frame 2966 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px 100px;
+gap: 202px;
+
+width: 1440px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2960 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+margin: 0 auto;
+width: 314px;
+height: 93px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Nav */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 127px;
+height: 19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 127px;
+height: 19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 18px;
+height: 19px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* div.logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 101px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* p.logo-text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 101px;
+height: 17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Quibble AI */
+
+width: 101px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 16px;
+/* identical to box height, or 81% */
+display: flex;
+align-items: center;
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Your words, our intelligence together, we achieve more */
+
+width: 314px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+letter-spacing: -1px;
+
+/* Primary BG */
+color: #FEFEFE;
+
+opacity: 0.9;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873038 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 72px;
+
+margin: 0 auto;
+width: 655px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2962 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 94px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Company */
+
+width: 94px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2961 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 51px;
+height: 96px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Home */
+
+width: 44px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About */
+
+width: 46px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Pricing */
+
+width: 51px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2963 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 146px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Help */
+
+width: 44px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2961 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 146px;
+height: 96px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Customer Support */
+
+width: 138px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Terms & Conditions */
+
+width: 146px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Privacy Policy */
+
+width: 102px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2964 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 271px;
+height: 74px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Contact */
+
+width: 79px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2961 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 271px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Email: Support@quibbleai.io */
+
+width: 271px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line 56 */
+
+width: 1440px;
+height: 0px;
+
+border: 1px solid #F1F2F4;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873130 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 100px;
+gap: 40px;
+
+width: 1440px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Big, small, online, */
+
+margin: 0 auto;
+width: 326px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873064 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+margin: 0 auto;
+width: 168px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* DiscordLogo */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.13%;
+right: 3.13%;
+top: 15.62%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+
+/* LinkedinLogo */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.38%;
+top: 9.38%;
+bottom: 9.38%;
+
+background: #FFFFFF;
+
+
+/* XLogo */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.63%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+
+/* EnvelopeSimple */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.38%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #FFFFFF;
+
+
+/* Frame 1618873096 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+position: relative;
+width: 1440px;
+height: 1696px;
+left: 1580px;
+top: 100px;
+
+background: #FFFFFF;
+
+
+/* Navbar New */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 48px;
+gap: 272.5px;
+
+width: 1440px;
+height: 84px;
+
+border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Nav */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+margin: 0 auto;
+width: 105px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 105px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 18px;
+height: 19px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* div.logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 79px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* p.logo-text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 79px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Quibble AI */
+
+width: 79px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* div.framer-11uvtgt */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+gap: 32px;
+
+margin: 0 auto;
+width: 300px;
+height: 31px;
+
+border-radius: 64px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link → Product */
+
+width: 77px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 124% */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link → Pricing */
+
+width: 57px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 124% */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link → Blog */
+
+display: none;
+width: 36px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 124% */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Link → Integrations */
+
+width: 94px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 124% */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 24px;
+
+margin: 0 auto;
+width: 159px;
+height: 52px;
+
+border-radius: 64px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Request Demo */
+
+width: 111px;
+height: 20px;
+
+/* prestige.framer.website/DM Sans/Medium 16 */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height, or 120% */
+display: flex;
+align-items: center;
+
+/* Primary */
+color: #5A4CE6;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Grid */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 48px 100px;
+gap: 40px;
+
+width: 1440px;
+height: 935px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* H2 */
+
+width: 570px;
+height: 52px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873124 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+gap: 261px;
+
+width: 1240px;
+height: 45px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 4px;
+gap: 12px;
+
+width: 331px;
+height: 45px;
+
+background: #F1F2F4;
+border-radius: 9px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Buttons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 8px;
+
+width: 155px;
+height: 34px;
+
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button Label */
+
+width: 52px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Buttons */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 8px 16px;
+gap: 8px;
+
+width: 156px;
+height: 37px;
+
+/* Primary BG */
+background: #FEFEFE;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Annually */
+
+width: 56px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873128 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 8px;
+gap: 10px;
+
+width: 60px;
+height: 21px;
+
+background: rgba(90, 76, 230, 0.1);
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Save 25% */
+
+width: 44px;
+height: 13px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 13px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873123 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 207px;
+height: 34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Select Currency */
+
+width: 120px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Dropdowns */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 12px;
+gap: 8px;
+
+width: 75px;
+height: 34px;
+
+/* Input Default */
+background: #F8F9FC;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Placeholder */
+
+width: 27px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* CaretDown */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 34.37%;
+bottom: 28.12%;
+
+/* Mute Gray,Input Labels, Placeholders */
+background: #6B6F80;
+
+
+/* Frame 1618873035 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 1240px;
+height: 662px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.container */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 32px;
+gap: 32px;
+
+width: 392px;
+height: 662px;
+
+/* Primary BG */
+background: #FEFEFE;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+box-shadow: 0px 0px 23px rgba(90, 76, 230, 0.25);
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Frame 1618873125 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 183px;
+height: 104px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873097 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 52px;
+height: 52px;
+
+/* Sidebar Icon BG */
+background: #F4F7FF;
+border-radius: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ForkKnife */
+
+width: 28px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.38%;
+right: 18.75%;
+top: 15.62%;
+bottom: 34.38%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 15.62%;
+top: 12.45%;
+bottom: 9.37%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+
+
+/* Food Ordering */
+
+width: 183px;
+height: 36px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 36px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873034 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 301px;
+height: 127px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873033 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 179px;
+height: 67px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Starts at */
+
+width: 179px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873032 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-end;
+padding: 0px;
+gap: 8px;
+
+width: 179px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $499 */
+
+width: 101px;
+height: 28px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* per month */
+
+width: 78px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Get a professional website designed according to your needs. */
+
+width: 301px;
+height: 36px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 62 */
+
+width: 328px;
+height: 0px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 301px;
+height: 186px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Get a fully designed Website */
+
+width: 213px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Webflow Development */
+
+width: 168px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Limited Support */
+
+width: 120px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Standart integrations */
+
+width: 157px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Email support */
+
+width: 103px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Email support */
+
+width: 103px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+
+width: 328px;
+height: 53px;
+
+background: linear-gradient(90.76deg, #5A4CE6 -1.46%, #322A80 100%);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Contact US */
+
+width: 86px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* div.container */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 32px;
+gap: 32px;
+
+width: 392px;
+height: 662px;
+
+/* Primary BG */
+background: #FEFEFE;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+box-shadow: 0px 0px 23px rgba(90, 76, 230, 0.25);
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Frame 1618873126 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 149px;
+height: 104px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873098 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 52px;
+height: 52px;
+
+/* Sidebar Icon BG */
+background: #F4F7FF;
+border-radius: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Chair */
+
+width: 28px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 12.5%;
+bottom: 31.25%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 9.38%;
+bottom: 9.38%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+
+
+/* Reservation */
+
+width: 149px;
+height: 36px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 36px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873034 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 301px;
+height: 127px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873033 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 179px;
+height: 67px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Starts at */
+
+width: 179px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873032 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-end;
+padding: 0px;
+gap: 8px;
+
+width: 179px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $499 */
+
+width: 101px;
+height: 28px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* per month */
+
+width: 78px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Get a professional website designed according to your needs. */
+
+width: 301px;
+height: 36px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 62 */
+
+width: 328px;
+height: 0px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 301px;
+height: 186px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Get a fully designed Website */
+
+width: 213px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Webflow Development */
+
+width: 168px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Limited Support */
+
+width: 120px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Standart integrations */
+
+width: 157px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Email support */
+
+width: 103px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Email support */
+
+width: 103px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+
+width: 328px;
+height: 53px;
+
+background: linear-gradient(90.76deg, #5A4CE6 -1.46%, #322A80 100%);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Contact US */
+
+width: 86px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* div.container */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 32px;
+gap: 32px;
+
+width: 392px;
+height: 662px;
+
+/* Primary BG */
+background: #FEFEFE;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+box-shadow: 0px 0px 23px rgba(90, 76, 230, 0.25);
+border-radius: 24px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Frame 1618873127 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 210px;
+height: 104px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 7 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px;
+gap: 10px;
+
+width: 52px;
+height: 52px;
+
+/* Sidebar Icon BG */
+background: #F4F7FF;
+border-radius: 40px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Headset */
+
+width: 28px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 50%;
+bottom: 21.88%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.37%;
+top: 9.36%;
+bottom: 3.12%;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+
+
+/* General Support */
+
+width: 210px;
+height: 36px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 36px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873034 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 301px;
+height: 127px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873033 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 179px;
+height: 67px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Starts at */
+
+width: 179px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 23px;
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873032 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-end;
+padding: 0px;
+gap: 8px;
+
+width: 179px;
+height: 28px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $499 */
+
+width: 101px;
+height: 28px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* leading-trim and text-edge are draft CSS properties.
+
+Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+*/
+leading-trim: both;
+text-edge: cap;
+display: flex;
+align-items: center;
+text-align: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* per month */
+
+width: 78px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Get a professional website designed according to your needs. */
+
+width: 301px;
+height: 36px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Line 62 */
+
+width: 328px;
+height: 0px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 301px;
+height: 186px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Get a fully designed Website */
+
+width: 213px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Webflow Development */
+
+width: 168px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Limited Support */
+
+width: 120px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Standart integrations */
+
+width: 157px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Email support */
+
+width: 103px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* div.features */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 301px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* div.icon-tick */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* SVG */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.93%;
+right: 7.8%;
+top: 23.43%;
+bottom: 17.18%;
+
+/* Text */
+background: #2B2D3F;
+
+
+/* Email support */
+
+width: 103px;
+max-width: 274.66px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+
+width: 328px;
+height: 53px;
+
+background: linear-gradient(90.76deg, #5A4CE6 -1.46%, #322A80 100%);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Contact US */
+
+width: 86px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Grid */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 48px 100px;
+gap: 40px;
+
+width: 1440px;
+height: 276px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 17 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 1240px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* H2 */
+
+width: 543px;
+height: 52px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Body */
+
+width: 1240px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Buttons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 24px;
+gap: 8px;
+
+width: 249px;
+height: 50px;
+
+/* Primary
+
+Buttons, etc.
+*/
+background: #5A4CE6;
+border-radius: 29px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Request a Free Demo */
+
+width: 201px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Laptop Footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 47px 0px 24px;
+gap: 28px;
+
+width: 1440px;
+height: 305px;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame 2966 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px 100px;
+gap: 202px;
+
+width: 1440px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2960 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+margin: 0 auto;
+width: 314px;
+height: 93px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Nav */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 127px;
+height: 19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 127px;
+height: 19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 18px;
+height: 19px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* div.logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 101px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* p.logo-text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 101px;
+height: 17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Quibble AI */
+
+width: 101px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 16px;
+/* identical to box height, or 81% */
+display: flex;
+align-items: center;
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Your words, our intelligence together, we achieve more */
+
+width: 314px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+letter-spacing: -1px;
+
+/* Primary BG */
+color: #FEFEFE;
+
+opacity: 0.9;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873038 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 72px;
+
+margin: 0 auto;
+width: 655px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2962 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 94px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Company */
+
+width: 94px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2961 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 51px;
+height: 96px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Home */
+
+width: 44px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About */
+
+width: 46px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Pricing */
+
+width: 51px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2963 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 146px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Help */
+
+width: 44px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2961 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 146px;
+height: 96px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Customer Support */
+
+width: 138px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Terms & Conditions */
+
+width: 146px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Privacy Policy */
+
+width: 102px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2964 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 271px;
+height: 74px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Contact */
+
+width: 79px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2961 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 271px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Email: Support@quibbleai.io */
+
+width: 271px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line 56 */
+
+width: 1440px;
+height: 0px;
+
+border: 1px solid #F1F2F4;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873130 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 100px;
+gap: 40px;
+
+width: 1440px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Big, small, online, */
+
+margin: 0 auto;
+width: 326px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873064 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+margin: 0 auto;
+width: 168px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* DiscordLogo */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.13%;
+right: 3.13%;
+top: 15.62%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+
+/* LinkedinLogo */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.38%;
+top: 9.38%;
+bottom: 9.38%;
+
+background: #FFFFFF;
+
+
+/* XLogo */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.63%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+
+/* EnvelopeSimple */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.38%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #FFFFFF;
+
+
+/* Frame 1618873097 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+position: relative;
+width: 1440px;
+height: 1441px;
+left: 3060px;
+top: 100px;
+
+background: #FFFFFF;
+
+
+/* Navbar New */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 48px;
+gap: 272.5px;
+
+width: 1440px;
+height: 84px;
+
+border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Nav */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+margin: 0 auto;
+width: 105px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 105px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 18px;
+height: 19px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* div.logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 79px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* p.logo-text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 79px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Quibble AI */
+
+width: 79px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* div.framer-11uvtgt */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+gap: 32px;
+
+margin: 0 auto;
+width: 300px;
+height: 31px;
+
+border-radius: 64px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link → Product */
+
+width: 77px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 124% */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link → Pricing */
+
+width: 57px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 124% */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link → Blog */
+
+display: none;
+width: 36px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 124% */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Link → Integrations */
+
+width: 94px;
+height: 23px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 124% */
+display: flex;
+align-items: center;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 24px;
+
+margin: 0 auto;
+width: 159px;
+height: 52px;
+
+border-radius: 64px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Request Demo */
+
+width: 111px;
+height: 20px;
+
+/* prestige.framer.website/DM Sans/Medium 16 */
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+/* identical to box height, or 120% */
+display: flex;
+align-items: center;
+
+/* Primary */
+color: #5A4CE6;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Grid */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 48px 100px;
+gap: 40px;
+
+width: 1440px;
+height: 988px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* H2 */
+
+width: 978px;
+height: 52px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+/* identical to box height */
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Text */
+color: #2B2D3F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Container */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px 32px;
+gap: 64px;
+
+width: 1280px;
+height: 800px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 576px;
+height: 800px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Form */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 576px;
+height: 621px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Form fields */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 576px;
+height: 536px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Input Field */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 576px;
+height: 64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Field Name */
+
+width: 576px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Plus */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 12px;
+gap: 10px;
+
+width: 576px;
+height: 40px;
+
+/* Input Default */
+background: #F8F9FC;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Placeholder */
+
+width: 59px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Input Field */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 576px;
+height: 64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Field Name */
+
+width: 576px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Plus */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 12px;
+gap: 10px;
+
+width: 576px;
+height: 40px;
+
+/* Input Default */
+background: #F8F9FC;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Placeholder */
+
+width: 63px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873131 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 576px;
+height: 64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Input Field */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 276px;
+height: 64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Field Name */
+
+width: 276px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Plus */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 12px;
+gap: 10px;
+
+width: 276px;
+height: 40px;
+
+/* Input Default */
+background: #F8F9FC;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Placeholder */
+
+width: 123px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Input Field Phone Number */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 276px;
+height: 64px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Field Name */
+
+width: 276px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Plus */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 12px;
+gap: 10px;
+
+width: 276px;
+height: 40px;
+
+/* Input Default */
+background: #F8F9FC;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 130 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 8px 0px 0px;
+gap: 8px;
+
+width: 51px;
+height: 18px;
+
+/* Light Gray - Borders, Inactive Button BG */
+border-right: 1px solid #DCE0E7;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* +91 */
+
+width: 21px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* CaretDown */
+
+width: 14px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 34.37%;
+bottom: 28.12%;
+
+/* Mute Gray,Input Labels, Placeholders */
+background: #6B6F80;
+
+
+/* Placeholder */
+
+width: 75px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873133 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 576px;
+height: 42px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* I need a voice assistant for */
+
+width: 146px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873135 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 576px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873132 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 118px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Checkbox */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Meet BG */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+background: #FFFFFF;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Food Ordering */
+
+width: 92px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873133 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 108px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Checkbox */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Meet BG */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+background: #FFFFFF;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Reservations */
+
+width: 82px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873134 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 131px;
+height: 18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Checkbox */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Meet BG */
+
+box-sizing: border-box;
+
+width: 16px;
+height: 16px;
+
+background: #FFFFFF;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* General Support */
+
+width: 105px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Input Field */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 8px;
+
+width: 576px;
+height: 174px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Message */
+
+width: 576px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* identical to box height */
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Plus */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 8px 12px;
+gap: 10px;
+
+width: 576px;
+height: 150px;
+
+/* Input Default */
+background: #F8F9FC;
+/* Light Gray - Borders, Inactive Button BG */
+border: 1px solid #DCE0E7;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* I need a voice assistant for my restaurant that.... */
+
+width: 302px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+letter-spacing: -0.01em;
+
+/* Mute Gray,Input Labels, Placeholders */
+color: #6B6F80;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+
+width: 576px;
+height: 53px;
+
+background: linear-gradient(90.76deg, #5A4CE6 -1.46%, #322A80 100%);
+border-radius: 8px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Send message */
+
+width: 110px;
+height: 21px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+letter-spacing: -0.01em;
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cozy Restaurant Interior 1 */
+
+width: 576px;
+height: 800px;
+
+background: url(Cozy Restaurant Interior.jpg);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Laptop Footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 47px 0px 24px;
+gap: 28px;
+
+width: 1440px;
+height: 305px;
+
+/* Text Accents, Hover States */
+background: #4038A7;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2966 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px 100px;
+gap: 202px;
+
+width: 1440px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2960 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+margin: 0 auto;
+width: 314px;
+height: 93px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Nav */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+
+width: 127px;
+height: 19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 127px;
+height: 19px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* image 7 */
+
+width: 18px;
+height: 19px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* div.logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 101px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* p.logo-text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 101px;
+height: 17px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Quibble AI */
+
+width: 101px;
+height: 17px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 16px;
+/* identical to box height, or 81% */
+display: flex;
+align-items: center;
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Your words, our intelligence together, we achieve more */
+
+width: 314px;
+height: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+letter-spacing: -1px;
+
+/* Primary BG */
+color: #FEFEFE;
+
+opacity: 0.9;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1618873038 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 72px;
+
+margin: 0 auto;
+width: 655px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 2962 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 94px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Company */
+
+width: 94px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2961 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 51px;
+height: 96px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Home */
+
+width: 44px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About */
+
+width: 46px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Pricing */
+
+width: 51px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2963 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 146px;
+height: 154px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Help */
+
+width: 44px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2961 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 146px;
+height: 96px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Customer Support */
+
+width: 138px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Terms & Conditions */
+
+width: 146px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Privacy Policy */
+
+width: 102px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 2964 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 32px;
+
+width: 271px;
+height: 74px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Contact */
+
+width: 79px;
+height: 26px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 2961 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 271px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Email: Support@quibbleai.io */
+
+width: 271px;
+height: 16px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 100%;
+/* identical to box height, or 16px */
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Line 56 */
+
+width: 1440px;
+height: 0px;
+
+border: 1px solid #F1F2F4;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1618873130 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px 100px;
+gap: 40px;
+
+width: 1440px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Big, small, online, */
+
+margin: 0 auto;
+width: 326px;
+height: 18px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+text-align: center;
+letter-spacing: -0.01em;
+
+/* Primary BG */
+color: #FEFEFE;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1618873064 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+margin: 0 auto;
+width: 168px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* DiscordLogo */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 3.12%;
+right: 3.13%;
+top: 15.62%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+
+/* LinkedinLogo */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.38%;
+top: 9.38%;
+bottom: 9.38%;
+
+background: #FFFFFF;
+
+
+/* XLogo */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.63%;
+top: 12.5%;
+bottom: 12.5%;
+
+background: #FFFFFF;
+
+
+/* EnvelopeSimple */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.38%;
+right: 9.38%;
+top: 18.75%;
+bottom: 18.75%;
+
+background: #FFFFFF;
