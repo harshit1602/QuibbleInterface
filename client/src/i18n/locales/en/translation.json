@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "home": "Home",
+    "pricing": "Pricing",
+    "aboutUs": "About Us",
+    "contact": "Contact"
+  },
+  "contact": {
+    "title": "Ready to Elevate Your Restaurant's Voice? Let's Connect",
+    "form": {
+      "name": "Your Name",
+      "companyName": "Company Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "message": "Message",
+      "budget": {
+        "label": "Project Budget",
+        "basic": "Basic Setup",
+        "standard": "Standard",
+        "enterprise": "Enterprise"
+      },
+      "submit": "Send message"
+    }
+  },
+  "footer": {
+    "companyDesc": "Your words, our intelligence together, we achieve more",
+    "company": "Company",
+    "help": "Help",
+    "contact": "Contact",
+    "copyright": "© Copyright 2025. All Rights Reserved by QuibbleAI"
+  }
+}

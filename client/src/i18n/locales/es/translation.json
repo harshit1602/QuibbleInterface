@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "pricing": "Precios",
+    "aboutUs": "Sobre Nosotros",
+    "contact": "Contacto"
+  },
+  "contact": {
+    "title": "¿Listo para elevar la voz de tu restaurante? Conectemos",
+    "form": {
+      "name": "Tu Nombre",
+      "companyName": "Nombre de la Empresa",
+      "email": "Correo Electrónico",
+      "phone": "Número de Teléfono",
+      "message": "Mensaje",
+      "budget": {
+        "label": "Presupuesto del Proyecto",
+        "basic": "Configuración Básica",
+        "standard": "Estándar",
+        "enterprise": "Empresarial"
+      },
+      "submit": "Enviar mensaje"
+    }
+  },
+  "footer": {
+    "companyDesc": "Tus palabras, nuestra inteligencia juntas, logramos más",
+    "company": "Empresa",
+    "help": "Ayuda",
+    "contact": "Contacto",
+    "copyright": "© Copyright 2025. Todos los derechos reservados por QuibbleAI"
+  }
+}

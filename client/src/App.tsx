@@ -13,6 +13,7 @@ import Contact from "@/pages/Contact";
 import Pricing from "@/pages/Pricing";
 import NotFound from "@/pages/not-found";
 import UnderConstruction from "@/pages/UnderConstruction";
+import "@/i18n/config"; // Import i18n configuration
 
 export default function App() {
   return (

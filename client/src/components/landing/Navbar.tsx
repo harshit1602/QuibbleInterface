@@ -3,14 +3,17 @@ import { Link } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { Menu } from "lucide-react";
+import { LanguageSwitcher } from "@/components/ui/language-switcher";
+import { useTranslation } from "react-i18next";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = React.useState(false);
+  const { t } = useTranslation();
 
   const navLinks = [
-    { text: "Pricing", href: "/pricing" },
-    { text: "About Us", href: "/about" },
-    { text: "Contact", href: "/contact" }
+    { text: t('nav.pricing'), href: "/pricing" },
+    { text: t('nav.aboutUs'), href: "/about" },
+    { text: t('nav.contact'), href: "/contact" }
   ];
 
   return (
@@ -34,13 +37,16 @@ export default function Navbar() {
           ))}
         </div>
 
-        <Button 
-          variant="ghost" 
-          className="hidden md:inline-flex text-[#5A4CE6] hover:bg-[#5A4CE6]/10"
-          onClick={() => window.location.href = 'https://demo.quibbleai.io/'}
-        >
-          Request Demo
-        </Button>
+        <div className="hidden md:flex items-center gap-4">
+          <LanguageSwitcher />
+          <Button 
+            variant="ghost" 
+            className="text-[#5A4CE6] hover:bg-[#5A4CE6]/10"
+            onClick={() => window.location.href = 'https://demo.quibbleai.io/'}
+          >
+            Request Demo
+          </Button>
+        </div>
 
         {/* Mobile Navigation */}
         <Sheet>
@@ -61,12 +67,15 @@ export default function Navbar() {
                   {link.text}
                 </Link>
               ))}
-              <Button 
-                className="mt-4 bg-gradient-to-r from-[#5A4CE6] to-[#322A80]"
-                onClick={() => window.location.href = 'https://demo.quibbleai.io/'}
-              >
-                Request Demo
-              </Button>
+              <div className="mt-4 flex items-center gap-4">
+                <LanguageSwitcher />
+                <Button 
+                  className="flex-1 bg-gradient-to-r from-[#5A4CE6] to-[#322A80]"
+                  onClick={() => window.location.href = 'https://demo.quibbleai.io/'}
+                >
+                  Request Demo
+                </Button>
+              </div>
             </div>
           </SheetContent>
         </Sheet>
