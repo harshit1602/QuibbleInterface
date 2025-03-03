@@ -6,7 +6,7 @@ import Home from "@/pages/Home";
 export default function App() {
   return (
     <QueryClientProvider client={queryClient}>
-      <div>
+      <div className="min-h-screen bg-white">
         <Home />
         <Toaster />
       </div>
