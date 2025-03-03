@@ -35,3 +35,9 @@
     @apply bg-background text-foreground antialiased;
   }
 }
+
+.container {
+  width: 1440px;
+  margin: 0 auto;
+  padding: 0 48px;
+}
