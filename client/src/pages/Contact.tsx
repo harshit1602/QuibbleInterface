@@ -37,19 +37,17 @@ export default function Contact() {
                   <div>
                     <Input placeholder="Company Name" className="w-full" />
                   </div>
-                  <div className="grid grid-cols-2 gap-4">
-                    <div>
-                      <Input type="email" placeholder="Email" className="w-full" />
-                    </div>
-                    <div className="flex">
-                      <select className="w-[100px] rounded-l-md border border-r-0 border-input bg-background text-sm">
-                        <option>+91</option>
-                        <option>+1</option>
-                        <option>+44</option>
-                        <option>+61</option>
-                      </select>
-                      <Input type="tel" placeholder="Phone Number" className="flex-1 rounded-l-none" />
-                    </div>
+                  <div>
+                    <Input type="email" placeholder="Email" className="w-full" />
+                  </div>
+                  <div className="flex">
+                    <select className="w-[100px] rounded-l-md border border-r-0 border-input bg-background text-sm">
+                      <option>+91</option>
+                      <option>+1</option>
+                      <option>+44</option>
+                      <option>+61</option>
+                    </select>
+                    <Input type="tel" placeholder="Phone Number" className="flex-1 rounded-l-none" />
                   </div>
 
                   <div>
