@@ -4,12 +4,12 @@ import UseCases from "@/components/landing/UseCases";
 
 export default function Home() {
   return (
-    <>
+    <div className="min-h-screen bg-white">
       <Navbar />
-      <main className="pt-20 min-h-screen bg-white">
+      <div className="pt-[84px]">
         <Hero />
         <UseCases />
-      </main>
-    </>
+      </div>
+    </div>
   );
 }
