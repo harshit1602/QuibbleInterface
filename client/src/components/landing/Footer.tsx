@@ -24,7 +24,7 @@ export default function Footer() {
             <Link href="/" className="flex items-center gap-2 mb-4">
               <img 
                 src="/images/quibble-logo.jpg" 
-                alt="QuibbleAI Logo" 
+                alt="QuibbleAI" 
                 className="h-8 w-auto brightness-0 invert" 
               />
               <span className="font-semibold text-[16px]">QuibbleAI</span>
@@ -74,16 +74,16 @@ export default function Footer() {
 
         {/* Bottom Section */}
         <div className="mt-12 pt-8 border-t border-white/20 flex flex-col md:flex-row justify-between items-center gap-4">
-          <div className="flex items-center gap-2">
+          <Link href="/" className="flex items-center gap-2">
             <img 
               src="/images/quibble-logo.jpg" 
-              alt="QuibbleAI Logo" 
-              className="h-6 w-auto brightness-0 invert" 
+              alt="QuibbleAI" 
+              className="h-8 w-auto brightness-0 invert" 
             />
-            <p className="text-sm opacity-80">
+            <span className="text-sm opacity-80">
               © Copyright 2025. All Rights Reserved by QuibbleAI
-            </p>
-          </div>
+            </span>
+          </Link>
           <div className="flex gap-6">
             <a href="https://discord.gg/quibbleai" target="_blank" rel="noopener noreferrer" className="opacity-80 hover:opacity-100">
               <BsDiscord className="w-5 h-5" />
