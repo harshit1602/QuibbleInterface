@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { Card, CardContent } from "@/components/ui/card";
-import { Brain, Globe, Zap } from "lucide-react";
+import { Brain, Globe, Zap, Heart } from "lucide-react";
 
 export default function Features() {
   const features = [
@@ -24,6 +24,15 @@ export default function Features() {
         customer: "Can I get the... uh... the veggie burger? No wait, not the burger, the wrap. The veggie wrap.",
         response: "Okay, switching to the Veggie Wrap. Just to confirm, you'd like the Veggie Wrap instead of the Veggie Burger, correct?"
       }
+    },
+    {
+      title: "Sentiment Analysis",
+      description: "Identifies customer sentiment to tailor interactions and ensure a positive and personalized experience",
+      icon: Heart,
+      example: {
+        customer: "This wait is really frustrating, I've been trying to order for 10 minutes!",
+        response: "I sincerely apologize for the wait time. Let me help you place your order right away and ensure you get served quickly."
+      }
     }
   ];
 
@@ -45,7 +54,7 @@ export default function Features() {
         </h2>
       </div>
 
-      <div className="grid grid-cols-3 gap-6">
+      <div className="grid grid-cols-2 gap-6">
         {features.map((feature, index) => (
           <motion.div
             key={feature.title}
@@ -87,7 +96,7 @@ export default function Features() {
                 )}
 
                 {feature.example && (
-                  <div className="mt-4 space-y-2">
+                  <div className="mt-4 space-y-2 bg-gray-50 p-4 rounded-lg">
                     <p className="text-sm text-[#6B6F80] italic">"{feature.example.customer}"</p>
                     <p className="text-sm text-[#5A4CE6]">"{feature.example.response}"</p>
                   </div>
