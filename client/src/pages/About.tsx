@@ -1,7 +1,10 @@
 import { motion } from "framer-motion";
 import MissedRevenue from "@/components/landing/MissedRevenue";
+import { useTranslation } from "react-i18next";
 
 export default function About() {
+  const { t } = useTranslation();
+
   return (
     <div className="flex flex-col">
       <div className="min-h-screen bg-white">
@@ -14,29 +17,33 @@ export default function About() {
             <div className="text-center mb-12">
               <div className="inline-block mb-4 px-4 py-2 bg-[#5A4CE6]/10 rounded-full">
                 <span className="text-sm font-semibold text-[#4038A7] uppercase">
-                  About Us
+                  {t('about.title')}
                 </span>
               </div>
               <h1 className="text-4xl font-bold text-[#2B2D3F] mb-6">
-                Revolutionizing Restaurant Operations with AI
+                {t('about.subtitle')}
               </h1>
               <p className="text-lg text-[#6B6F80] mb-12">
-                QuibbleAI is dedicated to transforming the restaurant industry through innovative AI solutions. Our platform seamlessly integrates with existing systems to enhance customer service, streamline operations, and boost revenue.
+                {t('about.description')}
               </p>
             </div>
 
             {/* Mission & Vision Section */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
               <div className="text-left">
-                <h3 className="text-xl font-semibold text-[#2B2D3F] mb-4">Our Mission</h3>
+                <h3 className="text-xl font-semibold text-[#2B2D3F] mb-4">
+                  {t('about.mission.title')}
+                </h3>
                 <p className="text-[#6B6F80]">
-                  To empower restaurants with intelligent automation that enhances customer experience while reducing operational complexity.
+                  {t('about.mission.description')}
                 </p>
               </div>
               <div className="text-left">
-                <h3 className="text-xl font-semibold text-[#2B2D3F] mb-4">Our Vision</h3>
+                <h3 className="text-xl font-semibold text-[#2B2D3F] mb-4">
+                  {t('about.vision.title')}
+                </h3>
                 <p className="text-[#6B6F80]">
-                  To be the leading AI solution provider in the restaurant industry, driving innovation and efficiency in food service operations.
+                  {t('about.vision.description')}
                 </p>
               </div>
             </div>

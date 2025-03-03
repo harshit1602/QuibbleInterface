@@ -3,7 +3,42 @@
     "home": "Inicio",
     "pricing": "Precios",
     "aboutUs": "Sobre Nosotros",
-    "contact": "Contacto"
+    "contact": "Contacto",
+    "requestDemo": "Solicitar Demo"
+  },
+  "hero": {
+    "title": "¿Cansado de llamadas perdidas y clientes frustrados?",
+    "subtitle": "Deja que QuibbleAI maneje las comunicaciones de tu restaurante",
+    "description": "Nuestra solución impulsada por IA gestiona reservas, responde consultas y asegura que ningún cliente quede sin atender",
+    "cta": "Comenzar"
+  },
+  "features": {
+    "title": "Características",
+    "reservation": {
+      "title": "Reservas Inteligentes",
+      "description": "Gestiona reservas sin esfuerzo y reduce las ausencias"
+    },
+    "communication": {
+      "title": "Comunicación 24/7",
+      "description": "Nunca más pierdas una consulta de cliente"
+    },
+    "insights": {
+      "title": "Análisis de Datos",
+      "description": "Toma decisiones informadas con análisis detallados"
+    }
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Revolucionando las Operaciones de Restaurantes con IA",
+    "description": "QuibbleAI está dedicado a transformar la industria de restaurantes a través de soluciones innovadoras de IA. Nuestra plataforma se integra perfectamente con los sistemas existentes para mejorar el servicio al cliente, optimizar operaciones y aumentar ingresos.",
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Empoderar a los restaurantes con automatización inteligente que mejora la experiencia del cliente mientras reduce la complejidad operativa."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "description": "Ser el proveedor líder de soluciones de IA en la industria de restaurantes, impulsando la innovación y la eficiencia en las operaciones de servicio de alimentos."
+    }
   },
   "contact": {
     "title": "¿Listo para elevar la voz de tu restaurante? Conectemos",
