@@ -36,8 +36,12 @@ export default function Hero() {
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.6, delay: 0.3 }}
       >
-        <div className="relative w-full aspect-[4/5] rounded-[150px] overflow-hidden bg-gray-100">
-          <div className="absolute inset-0 bg-gradient-to-b from-transparent to-black/10" />
+        <div className="relative w-full aspect-[4/5] rounded-[150px] overflow-hidden">
+          <img 
+            src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e"
+            alt="Customer Service Representative"
+            className="w-full h-full object-cover"
+          />
         </div>
       </motion.div>
     </div>
