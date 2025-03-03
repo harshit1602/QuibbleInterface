@@ -2,6 +2,7 @@ import { QueryClientProvider } from "@tanstack/react-query";
 import { queryClient } from "./lib/queryClient";
 import { Toaster } from "@/components/ui/toaster";
 import Hero from "@/components/landing/Hero";
+import Features from "@/components/landing/Features";
 import UseCases from "@/components/landing/UseCases";
 import ContactForm from "@/components/landing/ContactForm";
 import { Button } from "@/components/ui/button";
@@ -38,6 +39,7 @@ export default function App() {
           </div>
           <main className="w-full">
             <Hero />
+            <Features />
             <UseCases />
             <ContactForm />
           </main>
