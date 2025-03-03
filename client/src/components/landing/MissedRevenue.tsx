@@ -17,11 +17,13 @@ export default function MissedRevenue() {
           <p className="text-lg text-[#6B6F80] mb-8">
             Don't email valuable customers to your competition. QuibbleAI ensures every caller is answered.
           </p>
-          <img 
-            src="/assets/Grid.png"
-            alt="Integration Grid"
-            className="w-full h-auto mb-8"
-          />
+          <div className="w-full max-w-xl mx-auto mb-8">
+            <img 
+              src="/assets/Grid.png"
+              alt="Integration Grid"
+              className="w-full h-auto object-contain"
+            />
+          </div>
           <Button 
             className="bg-gradient-to-r from-[#5A4CE6] to-[#322A80] text-white px-8 py-4 rounded-full"
           >
