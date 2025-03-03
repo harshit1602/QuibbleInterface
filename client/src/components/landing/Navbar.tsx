@@ -9,28 +9,29 @@ export default function Navbar() {
 
   const navLinks = [
     { text: "Product", href: "#product" },
-    { text: "Pricing", href: "#pricing" },
-    { text: "Integrations", href: "#integrations" }
+    { text: "About Us", href: "/about" },
+    { text: "Contact", href: "/contact" },
+    { text: "Pricing", href: "#pricing" }
   ];
 
   return (
     <header className="fixed top-0 left-0 right-0 bg-white border-b border-gray-100 z-50">
       <nav className="container mx-auto flex justify-between items-center px-4 py-4">
         <Link href="/" className="flex items-center gap-2">
-          <img src="/assets/logo.svg" alt="Quibble AI" className="w-[18px] h-[19px]" />
+          <img src="/assets/logo.svg" alt="QuibbleAI" className="w-[18px] h-[19px]" />
           <span className="font-semibold text-[16px] text-[#2B2D3F]">QuibbleAI</span>
         </Link>
 
         {/* Desktop Navigation */}
         <div className="hidden md:flex items-center gap-8">
           {navLinks.map((link) => (
-            <a 
+            <Link 
               key={link.text}
               href={link.href}
               className="text-[18px] text-[#2B2D3F] hover:text-[#5A4CE6] transition-colors"
             >
               {link.text}
-            </a>
+            </Link>
           ))}
         </div>
 
@@ -51,14 +52,14 @@ export default function Navbar() {
           <SheetContent>
             <div className="flex flex-col gap-4 mt-8">
               {navLinks.map((link) => (
-                <a
+                <Link
                   key={link.text}
                   href={link.href}
                   className="text-lg font-medium text-[#2B2D3F]"
                   onClick={() => setIsOpen(false)}
                 >
                   {link.text}
-                </a>
+                </Link>
               ))}
               <Button className="mt-4 bg-gradient-to-r from-[#5A4CE6] to-[#322A80]">
                 Request Demo
