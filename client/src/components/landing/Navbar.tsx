@@ -1,11 +1,11 @@
-import React, { useState } from "react";
+import React from "react";
 import { Link } from "wouter";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { Menu } from "lucide-react";
 
 export default function Navbar() {
-  const [isOpen, setIsOpen] = useState(false);
+  const [isOpen, setIsOpen] = React.useState(false);
 
   const navLinks = [
     { text: "About Us", href: "/about" },
@@ -43,7 +43,7 @@ export default function Navbar() {
         </Button>
 
         {/* Mobile Navigation */}
-        <Sheet open={isOpen} onOpenChange={setIsOpen}>
+        <Sheet>
           <SheetTrigger asChild className="md:hidden">
             <Button variant="ghost" size="icon">
               <Menu className="h-6 w-6" />
