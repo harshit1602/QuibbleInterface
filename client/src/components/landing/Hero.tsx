@@ -13,10 +13,10 @@ export default function Hero() {
         transition={{ duration: 0.6 }}
       >
         <h1 className="text-[40px] leading-[52px] font-bold text-[#2B2D3F] mb-4">
-          Maximize Your Order Value and Improve Customer Experience with Intelligent AI-Powered Suggestions
+          Tired of Missed Calls and Frustrated Guests? Let Quibble AI Handle the Chaos
         </h1>
         <p className="text-[20px] leading-[26px] text-[#6B6F80] mb-12">
-          Our AI understands customer preferences and makes personalized recommendations to increase order value naturally
+          Taking orders, answering questions, managing reservations - Quibble AI does it all while you focus on what matters: serving great food 😋
         </p>
         <div className="space-y-2">
           <Button 
