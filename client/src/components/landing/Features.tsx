@@ -8,7 +8,7 @@ export default function Features() {
       title: "Easy POS Integration",
       description: "Connects effortlessly with your existing POS, and ordering systems for minimal disruption",
       icon: Zap,
-      image: "/assets/easy-pos-integration.png"
+      image: "/assets/Dynamic Double Burger Close-up 1.png"
     },
     {
       title: "Multilingual Support",
@@ -20,7 +20,7 @@ export default function Features() {
       title: "AI-Powered Natural Language Understanding",
       description: "Understands customer inquiries with remarkable accuracy, even with accents and variations in language",
       icon: Brain,
-      image: "/assets/ai-powered-natural-language.png"
+      image: "/assets/Obscured Identity 1.png"
     },
     {
       title: "Sentiment Analysis",
@@ -72,7 +72,7 @@ export default function Features() {
                   <img 
                     src={feature.image}
                     alt={feature.title}
-                    className="w-full h-full object-contain"
+                    className="w-full h-full object-cover"
                   />
                 </div>
               </CardContent>
