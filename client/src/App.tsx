@@ -17,14 +17,18 @@ export default function App() {
   return (
     <QueryClientProvider client={queryClient}>
       <div className="min-h-screen bg-white flex flex-col">
-        <Navbar />
+        <header>
+          <Navbar />
+        </header>
         <Switch>
           <Route path="/">
-            <main className="pt-16">
-              <Hero />
-              <UseCases />
-              <Features />
-              <MissedRevenue />
+            <main className="pt-16" role="main">
+              <article>
+                <Hero />
+                <UseCases />
+                <Features />
+                <MissedRevenue />
+              </article>
             </main>
           </Route>
           <Route path="/about" component={About} />
