@@ -48,7 +48,7 @@ export default function Features() {
         </h2>
       </div>
 
-      <div className="grid grid-cols-2 gap-6">
+      <div className="grid grid-cols-2 gap-8">
         {features.map((feature, index) => (
           <motion.div
             key={feature.title}
@@ -58,7 +58,7 @@ export default function Features() {
             transition={{ delay: index * 0.1 }}
           >
             <Card className="h-full">
-              <CardContent className="p-6">
+              <CardContent className="p-8">
                 <div className="w-12 h-12 bg-[#5A4CE6]/10 rounded-full flex items-center justify-center mb-4">
                   <feature.icon className="w-6 h-6 text-[#5A4CE6]" />
                 </div>
@@ -68,11 +68,11 @@ export default function Features() {
                 <p className="text-[#6B6F80] mb-6">
                   {feature.description}
                 </p>
-                <div className="w-full h-[300px] rounded-lg overflow-hidden">
+                <div className="w-full aspect-[16/9] rounded-lg overflow-hidden bg-gray-50">
                   <img 
                     src={feature.image}
                     alt={feature.title}
-                    className="w-full h-full object-cover"
+                    className="w-full h-full object-contain"
                   />
                 </div>
               </CardContent>
