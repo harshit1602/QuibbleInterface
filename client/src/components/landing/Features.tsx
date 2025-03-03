@@ -5,33 +5,33 @@ import { Brain, MessageSquare, Zap, TrendingUp, Shield, BarChart } from "lucide-
 export default function Features() {
   const features = [
     {
-      title: "Advanced AI",
-      description: "Our sophisticated AI engine understands context and delivers personalized responses",
-      icon: Brain,
-    },
-    {
-      title: "Real-time Chat",
-      description: "Instant responses to customer queries with natural language processing",
+      title: "Zero Missed Calls",
+      description: "Never miss an opportunity to connect with potential diners",
       icon: MessageSquare,
     },
     {
-      title: "Quick Integration",
-      description: "Easy setup process that integrates with your existing systems",
+      title: "Reduce Call Durations",
+      description: "Resolve customer inquiries faster and more efficiently, freeing your staff",
       icon: Zap,
     },
     {
-      title: "Performance Analytics",
-      description: "Detailed insights into customer interactions and satisfaction metrics",
+      title: "Cost Effective",
+      description: "Achieve significant cost savings through automation and increased efficiency",
       icon: TrendingUp,
     },
     {
-      title: "Secure Platform",
-      description: "Enterprise-grade security to protect sensitive customer data",
-      icon: Shield,
+      title: "Personalized Interactions",
+      description: "Create memorable experiences that keep customers coming back",
+      icon: Brain,
     },
     {
-      title: "Business Growth",
-      description: "Increase sales through intelligent upselling and recommendations",
+      title: "Native Language Support",
+      description: "Connect with a wider audience by communicating with customers in their language",
+      icon: MessageSquare,
+    },
+    {
+      title: "Scalable",
+      description: "Adapt to changing needs and expand your business effortlessly",
       icon: BarChart,
     },
   ];
@@ -46,15 +46,12 @@ export default function Features() {
           className="inline-block mb-4 px-4 py-2 bg-[#5A4CE6]/10 rounded-full"
         >
           <span className="text-sm font-semibold text-[#4038A7] uppercase">
-            Features & Benefits
+            benefits
           </span>
         </motion.div>
         <h2 className="text-4xl font-bold text-[#2B2D3F] mb-4">
-          Powerful Features for Your Business
+          Transform Your Restaurant with the Power of Quibble AI
         </h2>
-        <p className="text-[#6B6F80] text-lg max-w-2xl mx-auto">
-          Transform your customer interactions with our comprehensive suite of AI-powered features
-        </p>
       </div>
 
       <div className="grid grid-cols-3 gap-6">
