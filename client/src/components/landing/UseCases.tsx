@@ -5,18 +5,18 @@ export default function UseCases() {
   const useCases = [
     {
       title: "AI Voice Ordering",
-      image: "https://images.unsplash.com/photo-1591405351990-4726e331f141",
-      description: "Advanced voice recognition for seamless food ordering experience"
-    },
-    {
-      title: "Customer Support",
-      image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
-      description: "24/7 instant support with personalized responses"
+      image: "/burger-ordering.png",
+      description: "Taking orders, answering questions, managing reservations - Quibble AI does it all while you focus on what matters: serving great food"
     },
     {
       title: "Table Reservations",
-      image: "https://images.unsplash.com/photo-1578474846511-04ba529f0b88",
-      description: "Streamline bookings and manage table availability"
+      image: "/dining-table.png",
+      description: "Streamline bookings and manage table availability, reduce no-shows and improve seating efficiency"
+    },
+    {
+      title: "24/7 General Support",
+      image: "/customer-support.png",
+      description: "Provide instant answers to customer inquiries, resolve issues quickly, and enhance customer satisfaction"
     }
   ];
 
@@ -34,7 +34,7 @@ export default function UseCases() {
           </span>
         </motion.div>
         <h2 className="text-4xl font-bold text-[#2B2D3F]">
-          Transforming Industries with AI
+          How Quibble AI Helps Your Restaurant Thrive
         </h2>
       </div>
 
