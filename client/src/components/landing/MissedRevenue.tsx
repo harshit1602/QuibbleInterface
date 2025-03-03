@@ -19,7 +19,7 @@ export default function MissedRevenue() {
           </p>
           <div className="w-full max-w-xl mx-auto mb-8">
             <img 
-              src="/assets/Grid.png"
+              src="/assets/Frame_1618873108.png"
               alt="Integration Grid"
               className="w-full h-auto object-contain"
             />
