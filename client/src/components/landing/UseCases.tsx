@@ -5,17 +5,17 @@ export default function UseCases() {
   const useCases = [
     {
       title: "AI Voice Ordering",
-      image: "/burger-ordering.png",
+      image: "/assets/burger-ordering.png",
       description: "Taking orders, answering questions, managing reservations - Quibble AI does it all while you focus on what matters: serving great food"
     },
     {
       title: "Table Reservations",
-      image: "/dining-table.png",
+      image: "/assets/dining-table.png",
       description: "Streamline bookings and manage table availability, reduce no-shows and improve seating efficiency"
     },
     {
       title: "24/7 General Support",
-      image: "/customer-support.png",
+      image: "/assets/customer-support.png",
       description: "Provide instant answers to customer inquiries, resolve issues quickly, and enhance customer satisfaction"
     }
   ];

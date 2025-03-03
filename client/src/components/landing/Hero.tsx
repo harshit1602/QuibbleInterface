@@ -39,7 +39,7 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.3 }}
         >
           <img 
-            src="joyful-woman.png"
+            src="/assets/joyful-woman.png"
             alt="Woman using QuibbleAI on smartphone"
             className="w-full h-full object-cover rounded-[150px]"
           />
