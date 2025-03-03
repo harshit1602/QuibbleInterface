@@ -50,21 +50,27 @@ export default function About() {
 
             {/* Founders Section */}
             <div className="mt-16">
-              <h2 className="text-3xl font-bold text-center mb-12">Meet Our Founders</h2>
+              <h2 className="text-3xl font-bold text-center mb-12">
+                {t('about.founders.title')}
+              </h2>
               <div className="grid md:grid-cols-2 gap-8">
                 {/* Founder 1 */}
                 <div className="text-center">
                   <div className="mb-6 relative w-48 h-48 mx-auto">
                     <img
                       src="/images/founder-ashish.png"
-                      alt="Ashish Garg - Co-founder & CEO"
+                      alt={t('about.founders.founder1.name')}
                       className="rounded-full w-full h-full object-cover shadow-lg"
                     />
                   </div>
-                  <h3 className="text-2xl font-bold text-[#2B2D3F] mb-2">Ashish Garg</h3>
-                  <p className="text-[#5A4CE6] font-semibold mb-4">Co-founder & CEO</p>
+                  <h3 className="text-2xl font-bold text-[#2B2D3F] mb-2">
+                    {t('about.founders.founder1.name')}
+                  </h3>
+                  <p className="text-[#5A4CE6] font-semibold mb-4">
+                    {t('about.founders.founder1.role')}
+                  </p>
                   <p className="text-[#6B6F80] text-sm">
-                    24+ years of expertise in enterprise software development, global team management, and strategic leadership. Formerly at Oracle, Emerson, and QiO Technologies, driving growth and innovation.
+                    {t('about.founders.founder1.description')}
                   </p>
                 </div>
 
@@ -73,14 +79,18 @@ export default function About() {
                   <div className="mb-6 relative w-48 h-48 mx-auto">
                     <img
                       src="/images/founder-jitin.png"
-                      alt="Jitin Doriya - Co-founder & CTO"
+                      alt={t('about.founders.founder2.name')}
                       className="rounded-full w-full h-full object-cover shadow-lg"
                     />
                   </div>
-                  <h3 className="text-2xl font-bold text-[#2B2D3F] mb-2">Jitin Doriya</h3>
-                  <p className="text-[#5A4CE6] font-semibold mb-4">Co-founder & CTO</p>
+                  <h3 className="text-2xl font-bold text-[#2B2D3F] mb-2">
+                    {t('about.founders.founder2.name')}
+                  </h3>
+                  <p className="text-[#5A4CE6] font-semibold mb-4">
+                    {t('about.founders.founder2.role')}
+                  </p>
                   <p className="text-[#6B6F80] text-sm">
-                    IIT-BHU grad with 12+ years of software development experience. Expertise in AI/ML, cloud, and AWS. Previous roles include CTO at Chikitsa and Engineering Manager at Peak AI.
+                    {t('about.founders.founder2.description')}
                   </p>
                 </div>
               </div>

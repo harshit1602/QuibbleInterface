@@ -38,6 +38,19 @@
     "vision": {
       "title": "Our Vision",
       "description": "To be the leading AI solution provider in the restaurant industry, driving innovation and efficiency in food service operations."
+    },
+    "founders": {
+      "title": "Meet Our Founders",
+      "founder1": {
+        "name": "Ashish Garg",
+        "role": "Co-founder & CEO",
+        "description": "24+ years of expertise in enterprise software development, global team management, and strategic leadership. Formerly at Oracle, Emerson, and QiO Technologies, driving growth and innovation."
+      },
+      "founder2": {
+        "name": "Jitin Doriya",
+        "role": "Co-founder & CTO",
+        "description": "IIT-BHU grad with 12+ years of software development experience. Expertise in AI/ML, cloud, and AWS. Previous roles include CTO at Chikitsa and Engineering Manager at Peak AI."
+      }
     }
   },
   "contact": {
