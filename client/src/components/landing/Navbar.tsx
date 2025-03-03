@@ -8,9 +8,9 @@ export default function Navbar() {
   const [isOpen, setIsOpen] = React.useState(false);
 
   const navLinks = [
+    { text: "Pricing", href: "/pricing" },
     { text: "About Us", href: "/about" },
-    { text: "Contact", href: "/contact" },
-    { text: "Pricing", href: "/pricing" }
+    { text: "Contact", href: "/contact" }
   ];
 
   return (
