@@ -8,25 +8,25 @@ export default function Features() {
       title: "Easy POS Integration",
       description: "Connects effortlessly with your existing POS, and ordering systems for minimal disruption",
       icon: Zap,
-      image: "/images/frame-1618873029.png"
+      image: "/images/frame-1618873108.png"
     },
     {
       title: "Multilingual Support",
       description: "Break language barriers by interacting with customers in their preferred language",
       icon: Globe,
-      image: "/images/multilingual-support.png"
+      image: "/images/frame-1618873011.png"
     },
     {
       title: "AI-Powered Natural Language Understanding",
       description: "Understands customer inquiries with remarkable accuracy, even with accents and variations in language",
       icon: Brain,
-      image: "/images/frame-1618873108.png"
+      image: "/images/frame-1618873029.png"
     },
     {
       title: "Sentiment Analysis",
       description: "Identifies customer sentiment to tailor interactions and ensure a positive and personalized experience",
       icon: Heart,
-      image: "/images/sentiment-analysis.png"
+      image: "/images/frame-1618873029-1.png"
     }
   ];
 
