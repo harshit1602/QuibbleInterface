@@ -2,6 +2,7 @@ import { QueryClientProvider } from "@tanstack/react-query";
 import { queryClient } from "./lib/queryClient";
 import { Toaster } from "@/components/ui/toaster";
 import Hero from "@/components/landing/Hero";
+import UseCases from "@/components/landing/UseCases";
 import { Button } from "@/components/ui/button";
 
 export default function App() {
@@ -34,8 +35,9 @@ export default function App() {
               Request Demo
             </Button>
           </div>
-          <main>
+          <main className="w-full">
             <Hero />
+            <UseCases />
           </main>
         </div>
         <Toaster />
