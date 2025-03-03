@@ -70,7 +70,7 @@ export default function Features() {
                 </p>
                 <div className="w-full aspect-[16/9] rounded-lg overflow-hidden bg-gray-50">
                   <img 
-                    src={feature.image}
+                    src={`/assets/${feature.title.toLowerCase().replace(/\s+/g, '-')}.png`}
                     alt={feature.title}
                     className="w-full h-full object-contain"
                   />
