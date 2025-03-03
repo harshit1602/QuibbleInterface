@@ -6,43 +6,27 @@ export default function Features() {
   const features = [
     {
       title: "Easy POS Integration",
-      description: "Connects effortlessly with your existing POS, and ordering systems for  minimal disruption",
+      description: "Connects effortlessly with your existing POS, and ordering systems for minimal disruption",
       icon: Zap,
-      image: "/assets/pos-integration.png",
-      integrations: [
-        { name: "Square", languages: ["Japanese", "German", "English", "French", "Spanish", "Italian"] },
-        { name: "Orders", languages: ["Italian", "French", "Spanish", "Japanese", "German", "English"] },
-        { name: "Urban Piper", languages: ["Japanese", "French", "English", "Spanish", "Italian", "German"] },
-        { name: "Toast", languages: ["Japanese", "German", "English", "French", "Spanish", "Italian"] },
-        { name: "Billing", languages: ["Japanese", "French", "English", "Spanish", "Italian", "German"] }
-      ]
+      image: "/assets/pos-integration.png"
     },
     {
       title: "Multilingual Support",
       description: "Break language barriers by interacting with customers in their preferred language",
       icon: Globe,
-      image: "/assets/multilingual-support.png",
-      languages: ["English", "Spanish", "French", "German", "Italian", "Japanese"]
+      image: "/assets/multilingual-support.png"
     },
     {
       title: "AI-Powered Natural Language Understanding",
       description: "Understands customer inquiries with remarkable accuracy, even with accents and variations in language",
       icon: Brain,
-      image: "/assets/natural-language.png",
-      example: {
-        customer: "Can I get the... uh... the veggie burger? No wait, not the burger, the wrap. The veggie wrap.",
-        response: "Okay, switching to the Veggie Wrap. Just to confirm, you'd like the Veggie Wrap instead of the Veggie Burger, correct?"
-      }
+      image: "/assets/natural-language.png"
     },
     {
       title: "Sentiment Analysis",
       description: "Identifies customer sentiment to tailor interactions and ensure a positive and personalized experience",
       icon: Heart,
-      image: "/assets/sentiment-analysis.png",
-      example: {
-        customer: "This wait is really frustrating, I've been trying to order for 10 minutes!",
-        response: "I sincerely apologize for the wait time. Let me help you place your order right away and ensure you get served quickly."
-      }
+      image: "/assets/sentiment-analysis.png"
     }
   ];
 
@@ -75,58 +59,22 @@ export default function Features() {
           >
             <Card className="h-full">
               <CardContent className="p-6">
-                <div className="w-full h-48 mb-6 rounded-lg overflow-hidden">
-                  <img 
-                    src={feature.image}
-                    alt={feature.title}
-                    className="w-full h-full object-cover"
-                  />
-                </div>
                 <div className="w-12 h-12 bg-[#5A4CE6]/10 rounded-full flex items-center justify-center mb-4">
                   <feature.icon className="w-6 h-6 text-[#5A4CE6]" />
                 </div>
                 <h3 className="text-xl font-semibold text-[#2B2D3F] mb-2">
                   {feature.title}
                 </h3>
-                <p className="text-[#6B6F80] mb-4">
+                <p className="text-[#6B6F80] mb-6">
                   {feature.description}
                 </p>
-
-                {feature.integrations && (
-                  <div className="flex flex-wrap gap-2">
-                    {feature.integrations.map((integration) => (
-                      <div key={integration.name} className="mb-4">
-                        <span className="block mb-2 px-3 py-1 bg-[#5A4CE6]/10 rounded-full text-sm text-[#4038A7]">
-                          {integration.name}
-                        </span>
-                        <div className="flex flex-wrap gap-2">
-                          {integration.languages.map((lang) => (
-                            <span key={lang} className="px-3 py-1 bg-[#5A4CE6]/5 rounded-full text-xs text-[#4038A7]">
-                              {lang}
-                            </span>
-                          ))}
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                )}
-
-                {feature.languages && (
-                  <div className="flex flex-wrap gap-2">
-                    {feature.languages.map((language) => (
-                      <span key={language} className="px-3 py-1 bg-[#5A4CE6]/10 rounded-full text-sm text-[#4038A7]">
-                        {language}
-                      </span>
-                    ))}
-                  </div>
-                )}
-
-                {feature.example && (
-                  <div className="mt-4 space-y-2 bg-gray-50 p-4 rounded-lg">
-                    <p className="text-sm text-[#6B6F80] italic">"{feature.example.customer}"</p>
-                    <p className="text-sm text-[#5A4CE6]">"{feature.example.response}"</p>
-                  </div>
-                )}
+                <div className="w-full h-[300px] rounded-lg overflow-hidden">
+                  <img 
+                    src={feature.image}
+                    alt={feature.title}
+                    className="w-full h-full object-cover"
+                  />
+                </div>
               </CardContent>
             </Card>
           </motion.div>
