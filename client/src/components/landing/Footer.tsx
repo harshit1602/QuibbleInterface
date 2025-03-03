@@ -23,9 +23,9 @@ export default function Footer() {
           <div className="col-span-1">
             <Link href="/" className="flex items-center gap-2 mb-4">
               <img 
-                src="/images/quibble-logo.jpg" 
+                src="/quibblelogo.jpg" 
                 alt="QuibbleAI" 
-                className="h-8 w-auto brightness-0 invert" 
+                className="h-8 w-auto" 
               />
               <span className="font-semibold text-[16px]">QuibbleAI</span>
             </Link>
@@ -76,9 +76,9 @@ export default function Footer() {
         <div className="mt-12 pt-8 border-t border-white/20 flex flex-col md:flex-row justify-between items-center gap-4">
           <Link href="/" className="flex items-center gap-2">
             <img 
-              src="/images/quibble-logo.jpg" 
+              src="/quibblelogo.jpg" 
               alt="QuibbleAI" 
-              className="h-8 w-auto brightness-0 invert" 
+              className="h-8 w-auto" 
             />
             <span className="text-sm opacity-80">
               © Copyright 2025. All Rights Reserved by QuibbleAI
