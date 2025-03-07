@@ -1,3 +1,15 @@
+.replit.backup
+.replit
+.runner
+replit.nix
+.config
+node_modules
+Choru-Mirai
+config.json.temp
+LICENSE
+CONTRIBUTING.md
+Procfile
+README.md
 node_modules
 dist
 .DS_Store
