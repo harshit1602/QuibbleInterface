@@ -1,60 +1,74 @@
 import { motion } from "framer-motion";
 import { Card, CardContent } from "@/components/ui/card";
-import { Brain, MessageSquare, Zap, TrendingUp, Shield, BarChart } from "lucide-react";
+import { PhoneX, TrendDown, Calculator, Smiley, Translate, ChartBar } from "@phosphor-icons/react";
 
 export default function Benefits() {
   const benefits = [
     {
       title: "Zero Missed Calls",
       description: "Never miss an opportunity to connect with potential diners",
-      icon: MessageSquare,
+      icon: PhoneX,
+      ariaLabel: "Phone with X mark icon"
     },
     {
       title: "Reduce Call Durations",
       description: "Resolve customer inquiries faster and more efficiently, freeing your staff",
-      icon: Zap,
+      icon: TrendDown,
+      ariaLabel: "Downward trend icon"
     },
     {
       title: "Cost Effective",
       description: "Achieve significant cost savings through automation and increased efficiency",
-      icon: TrendingUp,
+      icon: Calculator,
+      ariaLabel: "Calculator icon"
     },
     {
       title: "Personalized Interactions",
       description: "Create memorable experiences that keep customers coming back",
-      icon: Brain,
+      icon: Smiley,
+      ariaLabel: "Smiley face icon"
     },
     {
       title: "Native Language Support",
       description: "Connect with a wider audience by communicating with customers in their language",
-      icon: MessageSquare,
+      icon: Translate,
+      ariaLabel: "Translation icon"
     },
     {
       title: "Scalable",
       description: "Adapt to changing needs and expand your business effortlessly",
-      icon: BarChart,
+      icon: ChartBar,
+      ariaLabel: "Bar chart icon"
     },
   ];
 
   return (
-    <section className="py-24 px-[100px] bg-gray-50">
-      <div className="text-center mb-16">
+    <section 
+      className="flex flex-col gap-8 sm:gap-10 py-8 sm:py-12 lg:py-16 px-4 sm:px-8 lg:px-[100px]"
+      aria-labelledby="benefits-heading"
+    >
+      <div className="flex flex-col gap-4 items-center text-center">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          className="inline-block mb-4 px-4 py-2 bg-[#5A4CE6]/10 rounded-full"
+          className="inline-block px-4 py-2 bg-[#5A4CE6]/10 rounded-full"
         >
           <span className="text-sm font-semibold text-[#4038A7] uppercase">
             benefits
           </span>
         </motion.div>
-        <h2 className="text-4xl font-bold text-[#2B2D3F] mb-4">
-          Transform Your Restaurant with the Power of Quibble AI
+        <h2 
+          id="benefits-heading" 
+          className="text-2xl sm:text-3xl lg:text-4xl font-bold text-[#2B2D3F]"
+        >
+          <span className="bg-gradient-to-r from-[#5A4CE6] to-[#322A80] text-transparent bg-clip-text">
+            Transform Your Restaurant
+          </span> with the Power of Quibble AI
         </h2>
       </div>
 
-      <div className="grid grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
         {benefits.map((benefit, index) => (
           <motion.div
             key={benefit.title}
@@ -62,18 +76,27 @@ export default function Benefits() {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true }}
             transition={{ delay: index * 0.1 }}
+            className="w-full"
           >
-            <Card className="h-full">
-              <CardContent className="p-6">
-                <div className="w-12 h-12 bg-[#5A4CE6]/10 rounded-full flex items-center justify-center mb-4">
-                  <benefit.icon className="w-6 h-6 text-[#5A4CE6]" />
+            <Card className="bg-[#EFEEFD] py-6 sm:py-8 lg:py-10 px-2 h-full w-full">
+              <CardContent className="flex flex-col items-center gap-4 sm:gap-6 p-0 sm:p-2">
+                <div className="p-3 bg-white rounded-full flex items-center justify-center">
+                  <benefit.icon 
+                    size={28} 
+                    weight="duotone" 
+                    color="#4038A7" 
+                    aria-hidden="true"
+                    aria-label={benefit.ariaLabel}
+                  />
                 </div>
-                <h3 className="text-xl font-semibold text-[#2B2D3F] mb-2">
-                  {benefit.title}
-                </h3>
-                <p className="text-[#6B6F80]">
-                  {benefit.description}
-                </p>
+                <div className="flex flex-col gap-2 items-center">
+                  <h3 className="text-lg font-semibold text-[#2B2D3F]">
+                    {benefit.title}
+                  </h3>
+                  <p className="text-sm sm:text-base text-center text-[#6B6F80]">
+                    {benefit.description}
+                  </p>
+                </div>
               </CardContent>
             </Card>
           </motion.div>

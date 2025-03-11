@@ -19,11 +19,11 @@ export default function Footer() {
   };
 
   return (
-    <footer className="bg-[#4038A7] text-white py-16">
-      <div className="container mx-auto px-4">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+    <footer className="bg-[#4038A7] text-white pt-8 pb-8">
+      <div className="px-6 md:px-12 lg:px-16">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Logo and Description */}
-          <div className="col-span-1">
+          <div className="flex flex-col items-start order-2 md:order-1 lg:order-none">
             <Link href="/" className="flex items-center gap-2 mb-4">
               <img 
                 src="/images/quibblelogo.jpg" 
@@ -32,13 +32,11 @@ export default function Footer() {
               />
               <span className="font-semibold text-[16px]">QuibbleAI</span>
             </Link>
-            <p className="text-sm opacity-80">
-              {t('footer.companyDesc')}
-            </p>
+            <p className="text-sm opacity-80">{t('footer.companyDesc')}</p>
           </div>
 
           {/* Company Links */}
-          <div>
+          <div className="order-3 md:order-2 lg:order-none">
             <h3 className="text-lg font-semibold mb-4">{t('footer.company')}</h3>
             <ul className="space-y-3">
               {footerLinks.company.map((link) => (
@@ -52,7 +50,7 @@ export default function Footer() {
           </div>
 
           {/* Help Links */}
-          <div>
+          <div className="order-4 md:order-3 lg:order-none">
             <h3 className="text-lg font-semibold mb-4">{t('footer.help')}</h3>
             <ul className="space-y-3">
               {footerLinks.help.map((link) => (
@@ -66,37 +64,26 @@ export default function Footer() {
           </div>
 
           {/* Contact */}
-          <div>
+          <div className="order-1 md:order-4 lg:order-none">
             <h3 className="text-lg font-semibold mb-4">{t('footer.contact')}</h3>
-            <a href="mailto:Support@quibbleai.io" className="text-sm opacity-80 hover:opacity-100 flex items-center gap-2">
+            <a href="mailto:support@quibbleai.io" className="text-sm opacity-80 hover:opacity-100 flex items-center gap-2">
               <BsEnvelope />
-              Support@quibbleai.io
+              support@quibbleai.io
             </a>
           </div>
         </div>
 
         {/* Bottom Section */}
-        <div className="mt-12 pt-8 border-t border-white/20 flex flex-col md:flex-row justify-between items-center gap-4">
+        <div className="mt-12 pt-8 border-t border-white/20 flex flex-col md:flex-row justify-between items-center gap-6">
           <Link href="/" className="flex items-center gap-2">
-            <img 
-              src="/images/quibblelogo.jpg" 
-              alt="QuibbleAI" 
-              className="h-8 w-auto" 
-            />
-            <span className="text-sm opacity-80">
-              {t('footer.copyright')}
-            </span>
+            <span className="text-sm opacity-80">{t('footer.copyright')}</span>
           </Link>
           <div className="flex gap-6">
-            <a href="https://discord.gg/quibbleai" target="_blank" rel="noopener noreferrer" className="opacity-80 hover:opacity-100">
-              <BsDiscord className="w-5 h-5" />
-              <span className="sr-only">Discord</span>
-            </a>
-            <a href="https://linkedin.com/company/quibbleai" target="_blank" rel="noopener noreferrer" className="opacity-80 hover:opacity-100">
+            <a href="https://linkedin.com/company/quibble-ai" target="_blank" rel="noopener noreferrer" className="opacity-80 hover:opacity-100">
               <BsLinkedin className="w-5 h-5" />
               <span className="sr-only">LinkedIn</span>
             </a>
-            <a href="https://twitter.com/quibbleai" target="_blank" rel="noopener noreferrer" className="opacity-80 hover:opacity-100">
+            <a href="https://x.com/QuibbleAI" target="_blank" rel="noopener noreferrer" className="opacity-80 hover:opacity-100">
               <BsTwitterX className="w-5 h-5" />
               <span className="sr-only">Twitter</span>
             </a>
